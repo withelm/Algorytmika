@@ -1,14 +1,12 @@
 #!/usr/bin/bash
 
-echo 'Check is exist folder '$1
-DIR="../Solve/"$1
+
+NEW_TASK=$(dotnet.exe run --project solver/)
+echo $NEW_TASK
+
+mkdir $NEW_TASK
+cp main.cpp $NEW_TASK\
 
 
-if [ -d $DIR ]; then
-  echo "File is exist!!!"
-else 
-  mkdir $1
-  cp main.cpp $1\
   
-  echo "Enjoy new task!"
-fi
+ 

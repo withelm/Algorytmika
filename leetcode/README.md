@@ -82,7 +82,7 @@ LeetCode
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[C++](./algorithms/c%2B%2B/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.cpp)|Medium|
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[C++](./algorithms/c%2B%2B/Check%20If%20N%20and%20Its%20Double%20Exist/Check%20If%20N%20and%20Its%20Double%20Exist.cpp)|Easy|
 |1345|[Jump Game IV](https://leetcode.com/problems/jump-game-iv/)|[C++](./algorithms/c%2B%2B/Jump%20Game%20IV/Jump%20Game%20IV.cpp)|Easy|
-|1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](./algorithms/c%2B%2B/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp),[C#](./algorithms/c%23/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cs)|Medium|
+|1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C#](./algorithms/c%23/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cs), [C++](./algorithms/c%2B%2B/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)|Medium|
 |1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[C++](./algorithms/c%2B%2B/The%20K%20Weakest%20Rows%20in%20a%20Matrix/The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)|Hard|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[C++](./algorithms/c%2B%2B/Remove%20Palindromic%20Subsequences/Remove%20Palindromic%20Subsequences.cpp)|Hard|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[C++](./algorithms/c%2B%2B/Maximum%2069%20Number/Maximum%2069%20Number.cpp)|Easy|
@@ -455,8 +455,8 @@ LeetCode
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C++](./algorithms/c%2B%2B/Binary%20Tree%20Postorder%20Traversal/Binary%20Tree%20Postorder%20Traversal.cpp)|Medium|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[C++](./algorithms/c%2B%2B/Binary%20Tree%20Preorder%20Traversal/Binary%20Tree%20Preorder%20Traversal.cpp)|Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[C#](./algorithms/c%23/Reorder%20List/Reorder%20List.cs)|Medium|
-|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C#](./algorithms/c%23/Linked%20List%20Cycle%20II/Linked%20List%20Cycle%20II.cs),[C++](./algorithms/c%2B%2B/Linked%20List%20Cycle%20II/Linked%20List%20Cycle%20II.cpp)|Medium|
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C++](./algorithms/c%2B%2B/Linked%20List%20Cycle/Linked%20List%20Cycle.cpp),[C#](./algorithms/c%23/Linked%20List%20Cycle/Linked%20List%20Cycle.cs)|Easy|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C#](./algorithms/c%23/Linked%20List%20Cycle%20II/Linked%20List%20Cycle%20II.cs), [C++](./algorithms/c%2B%2B/Linked%20List%20Cycle%20II/Linked%20List%20Cycle%20II.cpp)|Medium|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C#](./algorithms/c%23/Linked%20List%20Cycle/Linked%20List%20Cycle.cs), [C++](./algorithms/c%2B%2B/Linked%20List%20Cycle/Linked%20List%20Cycle.cpp)|Easy|
 |139|[Word Break](https://leetcode.com/problems/word-break/)|[C++](./algorithms/c%2B%2B/Word%20Break/Word%20Break.cpp)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C++](./algorithms/c%2B%2B/Copy%20List%20with%20Random%20Pointer/Copy%20List%20with%20Random%20Pointer.cpp)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[C++](./algorithms/c%2B%2B/Single%20Number/Single%20Number.cpp)|Easy|
@@ -480,7 +480,7 @@ LeetCode
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[C++](./algorithms/c%2B%2B/Binary%20Tree%20Level%20Order%20Traversal%20II/Binary%20Tree%20Level%20Order%20Traversal%20II.cpp)|Easy|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C#](./algorithms/c%23/Maximum%20Depth%20of%20Binary%20Tree/Maximum%20Depth%20of%20Binary%20Tree.cs)|Easy|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[C++](./algorithms/c%2B%2B/Binary%20Tree%20Level%20Order%20Traversal/Binary%20Tree%20Level%20Order%20Traversal.cpp)|Medium|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C#](./algorithms/c%23/Symmetric%20Tree/Symmetric%20Tree.cs),[C++](./algorithms/c%2B%2B/Symmetric%20Tree/Symmetric%20Tree.cpp)|Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C#](./algorithms/c%23/Symmetric%20Tree/Symmetric%20Tree.cs), [C++](./algorithms/c%2B%2B/Symmetric%20Tree/Symmetric%20Tree.cpp)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[C#](./algorithms/c%23/Same%20Tree/Same%20Tree.cs)|Easy|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[C++](./algorithms/c%2B%2B/Recover%20Binary%20Search%20Tree/Recover%20Binary%20Search%20Tree.cpp)|Hard|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./algorithms/c%2B%2B/Validate%20Binary%20Search%20Tree/Validate%20Binary%20Search%20Tree.cpp)|Medium|
@@ -504,7 +504,7 @@ LeetCode
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)|[C++](./algorithms/c%2B%2B/Valid%20Number/Valid%20Number.cpp)|Hard|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C++](./algorithms/c%2B%2B/Rotate%20List/Rotate%20List.cpp)|Medium|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[C++](./algorithms/c%2B%2B/Spiral%20Matrix%20II/Spiral%20Matrix%20II.cpp)|Medium|
-|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C++](./algorithms/c%2B%2B/Length%20of%20Last%20Word/Length%20of%20Last%20Word.cpp),[C#](./algorithms/c%23/Length%20of%20Last%20Word/Length%20of%20Last%20Word.cs)|Easy|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[C#](./algorithms/c%23/Length%20of%20Last%20Word/Length%20of%20Last%20Word.cs), [C++](./algorithms/c%2B%2B/Length%20of%20Last%20Word/Length%20of%20Last%20Word.cpp)|Easy|
 |57|[Insert Interval](https://leetcode.com/problems/insert-interval/)|[C++](./algorithms/c%2B%2B/Insert%20Interval/Insert%20Interval.cpp)|Medium|
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./algorithms/c%2B%2B/Merge%20Intervals/Merge%20Intervals.cpp)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](./algorithms/c%2B%2B/Spiral%20Matrix/Spiral%20Matrix.cpp)|Medium|
@@ -528,7 +528,7 @@ LeetCode
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./algorithms/c%2B%2B/Remove%20Duplicates%20from%20Sorted%20Array/Remove%20Duplicates%20from%20Sorted%20Array.cpp)|Easy|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C++](./algorithms/c%2B%2B/Swap%20Nodes%20in%20Pairs/Swap%20Nodes%20in%20Pairs.cpp)|Medium|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C++](./algorithms/c%2B%2B/Generate%20Parentheses/Generate%20Parentheses.cpp)|Medium|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C#](./algorithms/c%23/Merge%20Two%20Sorted%20Lists/Merge%20Two%20Sorted%20Lists.cs),[C++](./algorithms/c%2B%2B/Merge%20Two%20Sorted%20Lists/Merge%20Two%20Sorted%20Lists.cpp)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[C#](./algorithms/c%23/Merge%20Two%20Sorted%20Lists/Merge%20Two%20Sorted%20Lists.cs), [C++](./algorithms/c%2B%2B/Merge%20Two%20Sorted%20Lists/Merge%20Two%20Sorted%20Lists.cpp)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[C++](./algorithms/c%2B%2B/Valid%20Parentheses/Valid%20Parentheses.cpp)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C#](./algorithms/c%23/Remove%20Nth%20Node%20From%20End%20of%20List/Remove%20Nth%20Node%20From%20End%20of%20List.cs)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[C++](./algorithms/c%2B%2B/Letter%20Combinations%20of%20a%20Phone%20Number/Letter%20Combinations%20of%20a%20Phone%20Number.cpp)|Medium|
@@ -560,7 +560,7 @@ LeetCode
 |1393|[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)|[MSSQL](./database/MSSQL/Capital%20GainLoss/Capital%20GainLoss.sql)|Medium|
 |1378|[Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)|[MSSQL](./database/MSSQL/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier/Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql)|Easy|
 |1350|[Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)|[MSSQL](./database/MSSQL/Students%20With%20Invalid%20Departments/Students%20With%20Invalid%20Departments.sql)|Medium|
-|1327|[List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)|[MSSQL](./database/MSSQL/List%20the%20Products%20Ordered%20in%20a%20Period/List%20the%20Products%20Ordered%20in%20a%20Period.sql),[MySQL](./database/MySQL/List%20the%20Products%20Ordered%20in%20a%20Period/List%20the%20Products%20Ordered%20in%20a%20Period.sql)|Medium|
+|1327|[List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)|[MSSQL](./database/MSSQL/List%20the%20Products%20Ordered%20in%20a%20Period/List%20the%20Products%20Ordered%20in%20a%20Period.sql), [MySQL](./database/MySQL/List%20the%20Products%20Ordered%20in%20a%20Period/List%20the%20Products%20Ordered%20in%20a%20Period.sql)|Medium|
 |1322|[Ads Performance](https://leetcode.com/problems/ads-performance/)|[MSSQL](./database/MSSQL/Ads%20Performance/Ads%20Performance.sql)|Hard|
 |1303|[Find the Team Size](https://leetcode.com/problems/find-the-team-size/)|[MSSQL](./database/MSSQL/Find%20the%20Team%20Size/Find%20the%20Team%20Size.sql)|Easy|
 |1294|[Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/)|[MSSQL](./database/MSSQL/Weather%20Type%20in%20Each%20Country/Weather%20Type%20in%20Each%20Country.sql)|Easy|

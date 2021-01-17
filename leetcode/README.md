@@ -3,7 +3,7 @@ LeetCode
 ### LeetCode algorithms
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
-|1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[C++](./algorithms/cpp/Maximum Units on a Truck/Maximum Units on a Truck.cpp) |Hard|
+|1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[C++](./algorithms/cpp/MaximumUnitsonaTruck/MaximumUnitsonaTruck.cpp) |Hard|
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[C++](./algorithms/cpp/Determine if String Halves Are Alike/Determine if String Halves Are Alike.cpp) |Easy|
 |1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[C#](./algorithms/c#/Reformat Phone Number/Reformat Phone Number.cs) |Medium|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[C++](./algorithms/cpp/Count of Matches in Tournament/Count of Matches in Tournament.cpp) |Medium|

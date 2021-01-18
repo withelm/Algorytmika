@@ -3,6 +3,9 @@ LeetCode
 ### LeetCode database
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1693|[Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[MSSQL](./MSSQL/Daily%20Leads%20and%20Partners/Daily%20Leads%20and%20Partners.sql)|Easy|
+|1683|[Invalid Tweets](https://leetcode.com/problems/invalid-tweets)|[MSSQL](./MSSQL/Invalid%20Tweets/Invalid%20Tweets.sql)|Easy|
+|1661|[Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/)|[MSSQL](./MSSQL/Average%20Time%20of%20Process%20per%20Machine/Average%20Time%20of%20Process%20per%20Machine.sql)|Easy|
 |1633|[Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)|[MySQL](./MySQL/Percentage%20of%20Users%20Attended%20a%20Contest/Percentage%20of%20Users%20Attended%20a%20Contest.sql)|Easy|
 |1623|[All Valid Triplets That Can Represent a Country](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country/)|[MSSQL](./MSSQL/All%20Valid%20Triplets%20That%20Can%20Represent%20a%20Country/All%20Valid%20Triplets%20That%20Can%20Represent%20a%20Country.sql)|Easy|
 |1607|[Sellers With No Sales](https://leetcode.com/problems/sellers-with-no-sales/)|[MSSQL](./MSSQL/Sellers%20With%20No%20Sales/Sellers%20With%20No%20Sales.sql)|Easy|

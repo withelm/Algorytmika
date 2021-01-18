@@ -3,11 +3,14 @@ LeetCode
 ### LeetCode algorithms
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1725|[Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[C++](./c%2B%2B/Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square/Number%20Of%20Rectangles%20That%20Can%20Form%20The%20Largest%20Square.cpp)|Easy|
+|1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[C++](./c%2B%2B/Decode%20XORed%20Array/Decode%20XORed%20Array.cpp)|Easy|
 |1710|[Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)|[C++](./c%2B%2B/Maximum%20Units%20on%20a%20Truck/Maximum%20Units%20on%20a%20Truck.cpp)|Easy|
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[C++](./c%2B%2B/Determine%20if%20String%20Halves%20Are%20Alike/Determine%20if%20String%20Halves%20Are%20Alike.cpp)|Easy|
 |1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[C#](./c%23/Reformat%20Phone%20Number/Reformat%20Phone%20Number.cs)|Easy|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[C++](./c%2B%2B/Count%20of%20Matches%20in%20Tournament/Count%20of%20Matches%20in%20Tournament.cpp)|Easy|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[C++](./c%2B%2B/Count%20the%20Number%20of%20Consistent%20Strings/Count%20the%20Number%20of%20Consistent%20Strings.cpp)|Easy|
+|1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[C++](./c%2B%2B/Max%20Number%20of%20K-Sum%20Pairs/Max%20Number%20of%20K-Sum%20Pairs.cpp)|Medium|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[C#](./c%23/Goal%20Parser%20Interpretation/Goal%20Parser%20Interpretation.cs)|Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./c%2B%2B/Richest%20Customer%20Wealth/Richest%20Customer%20Wealth.cpp)|Easy|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[C++](./c%2B%2B/Check%20If%20Two%20String%20Arrays%20are%20Equivalent/Check%20If%20Two%20String%20Arrays%20are%20Equivalent.cpp)|Easy|
@@ -157,6 +160,7 @@ LeetCode
 |1007|[Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/)|[C++](./c%2B%2B/Minimum%20Domino%20Rotations%20For%20Equal%20Row/Minimum%20Domino%20Rotations%20For%20Equal%20Row.cpp)|Medium|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[C++](./c%2B%2B/Find%20Common%20Characters/Find%20Common%20Characters.cpp)|Easy|
 |999|[Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)|[C++](./c%2B%2B/Available%20Captures%20for%20Rook/Available%20Captures%20for%20Rook.cpp)|Easy|
+|997|[Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)|[C++](./c%2B%2B/Find%20the%20Town%20Judge/Find%20the%20Town%20Judge.cpp)|Easy|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)|[C++](./c%2B%2B/Cousins%20in%20Binary%20Tree/Cousins%20in%20Binary%20Tree.cpp)|Easy|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)|[C++](./c%2B%2B/Add%20to%20Array-Form%20of%20Integer/Add%20to%20Array-Form%20of%20Integer.cpp)|Easy|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)|[C++](./c%2B%2B/Sum%20of%20Even%20Numbers%20After%20Queries/Sum%20of%20Even%20Numbers%20After%20Queries.cpp)|Easy|
@@ -284,6 +288,7 @@ LeetCode
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[C++](./c%2B%2B/Can%20Place%20Flowers/Can%20Place%20Flowers.cpp)|Easy|
 |604|[Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/)|[C++](./c%2B%2B/Design%20Compressed%20String%20Iterator/Design%20Compressed%20String%20Iterator.cpp)|Easy|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[C++](./c%2B%2B/Minimum%20Index%20Sum%20of%20Two%20Lists/Minimum%20Index%20Sum%20of%20Two%20Lists.cpp)|Easy|
+|598|[Range Addition II](https://leetcode.com/problems/range-addition-ii/)|[C++](./c%2B%2B/Range%20Addition%20II/Range%20Addition%20II.cpp)|Easy|
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|[C++](./c%2B%2B/Valid%20Square/Valid%20Square.cpp)|Medium|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[C++](./c%2B%2B/N-ary%20Tree%20Postorder%20Traversal/N-ary%20Tree%20Postorder%20Traversal.cpp)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](./c%2B%2B/N-ary%20Tree%20Preorder%20Traversal/N-ary%20Tree%20Preorder%20Traversal.cpp)|Easy|

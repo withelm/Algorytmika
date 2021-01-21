@@ -13,6 +13,7 @@ LeetCode
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[C++](./c%2B%2B/Count%20the%20Number%20of%20Consistent%20Strings/Count%20the%20Number%20of%20Consistent%20Strings.cpp)|Easy|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[C++](./c%2B%2B/Max%20Number%20of%20K-Sum%20Pairs/Max%20Number%20of%20K-Sum%20Pairs.cpp)|Medium|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[C#](./c%23/Goal%20Parser%20Interpretation/Goal%20Parser%20Interpretation.cs)|Easy|
+|1673|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)|[C++](./c%2B%2B/Find%20the%20Most%20Competitive%20Subsequence/Find%20the%20Most%20Competitive%20Subsequence.cpp)|Medium|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](./c%2B%2B/Richest%20Customer%20Wealth/Richest%20Customer%20Wealth.cpp)|Easy|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[C++](./c%2B%2B/Check%20If%20Two%20String%20Arrays%20are%20Equivalent/Check%20If%20Two%20String%20Arrays%20are%20Equivalent.cpp)|Easy|
 |1658|[Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)|[C++](./c%2B%2B/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.cpp)|Medium|

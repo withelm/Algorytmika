@@ -94,6 +94,7 @@ LeetCode
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C#](./c%23/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cs), [C++](./c%2B%2B/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.cpp)|Easy|
 |1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[C++](./c%2B%2B/The%20K%20Weakest%20Rows%20in%20a%20Matrix/The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)|Easy|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/)|[C++](./c%2B%2B/Remove%20Palindromic%20Subsequences/Remove%20Palindromic%20Subsequences.cpp)|Easy|
+|1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/)|[C++](./c%2B%2B/Sort%20the%20Matrix%20Diagonally/Sort%20the%20Matrix%20Diagonally.cpp)|Medium|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)|[C++](./c%2B%2B/Maximum%2069%20Number/Maximum%2069%20Number.cpp)|Easy|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/)|[C++](./c%2B%2B/Matrix%20Block%20Sum/Matrix%20Block%20Sum.cpp)|Medium|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[C++](./c%2B%2B/Decompress%20Run-Length%20Encoded%20List/Decompress%20Run-Length%20Encoded%20List.cpp)|Easy|
@@ -404,6 +405,7 @@ LeetCode
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C++](./c%2B%2B/First%20Bad%20Version/First%20Bad%20Version.cpp)|Easy|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[C++](./c%2B%2B/Find%20the%20Celebrity/Find%20the%20Celebrity.cpp)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[C++](./c%2B%2B/H-Index/H-Index.cpp)|Medium|
+|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[C++](./c%2B%2B/Integer%20to%20English%20Words/Integer%20to%20English%20Words.cpp)|Hard|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[C++](./c%2B%2B/Closest%20Binary%20Search%20Tree%20Value/Closest%20Binary%20Search%20Tree%20Value.cpp)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[C++](./c%2B%2B/Missing%20Number/Missing%20Number.cpp)|Easy|
 |266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|[C++](./c%2B%2B/Palindrome%20Permutation/Palindrome%20Permutation.cpp)|Easy|
@@ -422,6 +424,7 @@ LeetCode
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[C++](./c%2B%2B/Valid%20Anagram/Valid%20Anagram.cpp)|Easy|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C++](./c%2B%2B/Search%20a%202D%20Matrix%20II/Search%20a%202D%20Matrix%20II.cpp)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[C++](./c%2B%2B/Sliding%20Window%20Maximum/Sliding%20Window%20Maximum.cpp)|Hard|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[C++](./c%2B%2B/Product%20of%20Array%20Except%20Self/Product%20of%20Array%20Except%20Self.cpp)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[C++](./c%2B%2B/Delete%20Node%20in%20a%20Linked%20List/Delete%20Node%20in%20a%20Linked%20List.cpp)|Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[C++](./c%2B%2B/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp)|Medium|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[C++](./c%2B%2B/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp)|Easy|
@@ -556,6 +559,7 @@ LeetCode
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[C++](./c%2B%2B/Letter%20Combinations%20of%20a%20Phone%20Number/Letter%20Combinations%20of%20a%20Phone%20Number.cpp)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./c%2B%2B/Longest%20Common%20Prefix/Longest%20Common%20Prefix.cpp)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[C++](./c%2B%2B/Roman%20to%20Integer/Roman%20to%20Integer.cpp)|Easy|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[C#](./c%23/Regular%20Expression%20Matching/Regular%20Expression%20Matching.cs)|Hard|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[C++](./c%2B%2B/Palindrome%20Number/Palindrome%20Number.cpp)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./c%2B%2B/Reverse%20Integer/Reverse%20Integer.cpp)|Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](./c%2B%2B/Longest%20Palindromic%20Substring/Longest%20Palindromic%20Substring.cpp)|Medium|

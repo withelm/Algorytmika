@@ -5,6 +5,7 @@ LeetCode
 | ---| ----- | -------- | ---------- |
 |1731|[The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/)|[MSSQL](./MSSQL/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql)|Easy|
 |1729|[Find Followers Count](https://leetcode.com/problems/find-followers-count/)|[MSSQL](./MSSQL/Find%20Followers%20Count/Find%20Followers%20Count.sql)|Easy|
+|1699|[Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/)|[MSSQL](./MSSQL/Number%20of%20Calls%20Between%20Two%20Persons/Number%20of%20Calls%20Between%20Two%20Persons.sql)|Medium|
 |1693|[Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[MSSQL](./MSSQL/Daily%20Leads%20and%20Partners/Daily%20Leads%20and%20Partners.sql)|Easy|
 |1683|[Invalid Tweets](https://leetcode.com/problems/invalid-tweets)|[MSSQL](./MSSQL/Invalid%20Tweets/Invalid%20Tweets.sql)|Easy|
 |1677|[Product's Worth Over Invoices](https://leetcode.com/problems/products-worth-over-invoices/)|[MSSQL](./MSSQL/Product%27s%20Worth%20Over%20Invoices/Product%27s%20Worth%20Over%20Invoices.sql)|Easy|
@@ -13,6 +14,7 @@ LeetCode
 |1633|[Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)|[MySQL](./MySQL/Percentage%20of%20Users%20Attended%20a%20Contest/Percentage%20of%20Users%20Attended%20a%20Contest.sql)|Easy|
 |1623|[All Valid Triplets That Can Represent a Country](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country/)|[MSSQL](./MSSQL/All%20Valid%20Triplets%20That%20Can%20Represent%20a%20Country/All%20Valid%20Triplets%20That%20Can%20Represent%20a%20Country.sql)|Easy|
 |1607|[Sellers With No Sales](https://leetcode.com/problems/sellers-with-no-sales/)|[MSSQL](./MSSQL/Sellers%20With%20No%20Sales/Sellers%20With%20No%20Sales.sql)|Easy|
+|1596|[The Most Frequently Ordered Products for Each Customer](https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/)|[MSSQL](./MSSQL/The%20Most%20Frequently%20Ordered%20Products%20for%20Each%20Customer/The%20Most%20Frequently%20Ordered%20Products%20for%20Each%20Customer.sql)|Medium|
 |1587|[Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/)|[MSSQL](./MSSQL/Bank%20Account%20Summary%20II/Bank%20Account%20Summary%20II.sql)|Easy|
 |1581|[Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)|[MSSQL](./MSSQL/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions/Customer%20Who%20Visited%20but%20Did%20Not%20Make%20Any%20Transactions.sql)|Easy|
 |1571|[Warehouse Manager](https://leetcode.com/problems/warehouse-manager/)|[MSSQL](./MSSQL/Warehouse%20Manager/Warehouse%20Manager.sql)|Easy|
@@ -31,6 +33,7 @@ LeetCode
 |1350|[Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/)|[MSSQL](./MSSQL/Students%20With%20Invalid%20Departments/Students%20With%20Invalid%20Departments.sql)|Easy|
 |1327|[List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)|[MSSQL](./MSSQL/List%20the%20Products%20Ordered%20in%20a%20Period/List%20the%20Products%20Ordered%20in%20a%20Period.sql), [MySQL](./MySQL/List%20the%20Products%20Ordered%20in%20a%20Period/List%20the%20Products%20Ordered%20in%20a%20Period.sql)|Easy|
 |1322|[Ads Performance](https://leetcode.com/problems/ads-performance/)|[MSSQL](./MSSQL/Ads%20Performance/Ads%20Performance.sql)|Easy|
+|1308|[Running Total for Different Genders](https://leetcode.com/problems/running-total-for-different-genders/)|[MSSQL](./MSSQL/Running%20Total%20for%20Different%20Genders/Running%20Total%20for%20Different%20Genders.sql)|Medium|
 |1303|[Find the Team Size](https://leetcode.com/problems/find-the-team-size/)|[MSSQL](./MSSQL/Find%20the%20Team%20Size/Find%20the%20Team%20Size.sql)|Easy|
 |1294|[Weather Type in Each Country](https://leetcode.com/problems/weather-type-in-each-country/)|[MSSQL](./MSSQL/Weather%20Type%20in%20Each%20Country/Weather%20Type%20in%20Each%20Country.sql)|Easy|
 |1280|[Students and Examinations](https://leetcode.com/problems/students-and-examinations/)|[MSSQL](./MSSQL/Students%20and%20Examinations/Students%20and%20Examinations.sql)|Easy|

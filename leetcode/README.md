@@ -569,8 +569,12 @@ LeetCode
 ### LeetCode database
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1731|[The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/)|[MSSQL](./database/MSSQL/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql)|Easy|
+|1729|[Find Followers Count](https://leetcode.com/problems/find-followers-count/)|[MSSQL](./database/MSSQL/Find%20Followers%20Count/Find%20Followers%20Count.sql)|Easy|
 |1693|[Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/)|[MSSQL](./database/MSSQL/Daily%20Leads%20and%20Partners/Daily%20Leads%20and%20Partners.sql)|Easy|
 |1683|[Invalid Tweets](https://leetcode.com/problems/invalid-tweets)|[MSSQL](./database/MSSQL/Invalid%20Tweets/Invalid%20Tweets.sql)|Easy|
+|1677|[Product's Worth Over Invoices](https://leetcode.com/problems/products-worth-over-invoices/)|[MSSQL](./database/MSSQL/Product%27s%20Worth%20Over%20Invoices/Product%27s%20Worth%20Over%20Invoices.sql)|Easy|
+|1667|[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)|[MSSQL](./database/MSSQL/Fix%20Names%20in%20a%20Table/Fix%20Names%20in%20a%20Table.sql)|Easy|
 |1661|[Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/)|[MSSQL](./database/MSSQL/Average%20Time%20of%20Process%20per%20Machine/Average%20Time%20of%20Process%20per%20Machine.sql)|Easy|
 |1633|[Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/)|[MySQL](./database/MySQL/Percentage%20of%20Users%20Attended%20a%20Contest/Percentage%20of%20Users%20Attended%20a%20Contest.sql)|Easy|
 |1623|[All Valid Triplets That Can Represent a Country](https://leetcode.com/problems/all-valid-triplets-that-can-represent-a-country/)|[MSSQL](./database/MSSQL/All%20Valid%20Triplets%20That%20Can%20Represent%20a%20Country/All%20Valid%20Triplets%20That%20Can%20Represent%20a%20Country.sql)|Easy|
@@ -585,6 +589,7 @@ LeetCode
 |1511|[Customer Order Frequency](https://leetcode.com/problems/customer-order-frequency/)|[MSSQL](./database/MSSQL/Customer%20Order%20Frequency/Customer%20Order%20Frequency.sql)|Easy|
 |1495|[Friendly Movies Streamed Last Month](https://leetcode.com/problems/friendly-movies-streamed-last-month/)|[MSSQL](./database/MSSQL/Friendly%20Movies%20Streamed%20Last%20Month/Friendly%20Movies%20Streamed%20Last%20Month.sql)|Easy|
 |1484|[Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)|[MSSQL](./database/MSSQL/Group%20Sold%20Products%20By%20The%20Date/Group%20Sold%20Products%20By%20The%20Date.sql)|Easy|
+|1445|[Apples & Oranges](https://leetcode.com/problems/apples-oranges/)|[MSSQL](./database/MSSQL/Apples%20%26%20Oranges/Apples%20%26%20Oranges.sql)|Medium|
 |1435|[Create a Session Bar Chart](https://leetcode.com/problems/create-a-session-bar-chart/)|[MSSQL](./database/MSSQL/Create%20a%20Session%20Bar%20Chart/Create%20a%20Session%20Bar%20Chart.sql)|Easy|
 |1407|[Top Travellers](https://leetcode.com/problems/top-travellers/)|[MSSQL](./database/MSSQL/Top%20Travellers/Top%20Travellers.sql)|Easy|
 |1393|[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/)|[MSSQL](./database/MSSQL/Capital%20GainLoss/Capital%20GainLoss.sql)|Medium|

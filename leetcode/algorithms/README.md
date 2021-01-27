@@ -15,6 +15,7 @@ LeetCode
 |1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[C#](./c%23/Reformat%20Phone%20Number/Reformat%20Phone%20Number.cs)|Easy|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[C++](./c%2B%2B/Count%20of%20Matches%20in%20Tournament/Count%20of%20Matches%20in%20Tournament.cpp)|Easy|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[C++](./c%2B%2B/Count%20the%20Number%20of%20Consistent%20Strings/Count%20the%20Number%20of%20Consistent%20Strings.cpp)|Easy|
+|1680|[Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)|[C++](./c%2B%2B/Concatenation%20of%20Consecutive%20Binary%20Numbers/Concatenation%20of%20Consecutive%20Binary%20Numbers.cpp)|Medium|
 |1679|[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/)|[C++](./c%2B%2B/Max%20Number%20of%20K-Sum%20Pairs/Max%20Number%20of%20K-Sum%20Pairs.cpp)|Medium|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[C#](./c%23/Goal%20Parser%20Interpretation/Goal%20Parser%20Interpretation.cs)|Easy|
 |1673|[Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/)|[C++](./c%2B%2B/Find%20the%20Most%20Competitive%20Subsequence/Find%20the%20Most%20Competitive%20Subsequence.cpp)|Medium|

@@ -77,6 +77,7 @@ LeetCode
 |534|[Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/)|[MSSQL](./MSSQL/Game%20Play%20Analysis%20III/Game%20Play%20Analysis%20III.sql)|Medium|
 |512|[Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/)|[MSSQL](./MSSQL/Game%20Play%20Analysis%20II/Game%20Play%20Analysis%20II.sql)|Easy|
 |511|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)|[MSSQL](./MSSQL/Game%20Play%20Analysis%20I/Game%20Play%20Analysis%20I.sql)|Easy|
+|197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[MSSQL](./MSSQL/Rising%20Temperature/Rising%20Temperature.sql)|Easy|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MSSQL](./MSSQL/Delete%20Duplicate%20Emails/Delete%20Duplicate%20Emails.sql)|Easy|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[MSSQL](./MSSQL/Department%20Highest%20Salary/Department%20Highest%20Salary.sql)|Medium|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[MSSQL](./MSSQL/Customers%20Who%20Never%20Order/Customers%20Who%20Never%20Order.sql)|Easy|

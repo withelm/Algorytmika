@@ -61,9 +61,12 @@ LeetCode
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[MSSQL](./MSSQL/Not%20Boring%20Movies/Not%20Boring%20Movies.sql)|Easy|
 |619|[Biggest Single Number](https://leetcode.com/problems/biggest-single-number/)|[MSSQL](./MSSQL/Biggest%20Single%20Number/Biggest%20Single%20Number.sql)|Easy|
 |613|[Shortest Distance in a Line](https://leetcode.com/problems/shortest-distance-in-a-line/)|[MSSQL](./MSSQL/Shortest%20Distance%20in%20a%20Line/Shortest%20Distance%20in%20a%20Line.sql)|Easy|
+|612|[Shortest Distance in a Plane](https://leetcode.com/problems/shortest-distance-in-a-plane/)|[MSSQL](./MSSQL/Shortest%20Distance%20in%20a%20Plane/Shortest%20Distance%20in%20a%20Plane.sql)|Medium|
 |610|[Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)|[MSSQL](./MSSQL/Triangle%20Judgement/Triangle%20Judgement.sql)|Easy|
+|608|[Tree Node](https://leetcode.com/problems/tree-node/)|[MSSQL](./MSSQL/Tree%20Node/Tree%20Node.sql)|Medium|
 |607|[Sales Person](https://leetcode.com/problems/sales-person/)|[MSSQL](./MSSQL/Sales%20Person/Sales%20Person.sql)|Easy|
 |603|[Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/)|[MSSQL](./MSSQL/Consecutive%20Available%20Seats/Consecutive%20Available%20Seats.sql)|Easy|
+|602|[Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/)|[MSSQL](./MSSQL/Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends/Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends.sql)|Medium|
 |597|[Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/)|[MSSQL](./MSSQL/Friend%20Requests%20I%20Overall%20Acceptance%20Rate/Friend%20Requests%20I%20Overall%20Acceptance%20Rate.sql)|Easy|
 |596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](./MySQL/Classes%20More%20Than%205%20Students/Classes%20More%20Than%205%20Students.sql)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[MSSQL](./MSSQL/Big%20Countries/Big%20Countries.sql)|Easy|

@@ -3,6 +3,7 @@ LeetCode
 ### LeetCode algorithms
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1745|[Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/)|[C++](./algorithms/c%2B%2B/Palindrome%20Partitioning%20IV/Palindrome%20Partitioning%20IV.cpp)|Hard|
 |1742|[Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/)|[C++](./algorithms/c%2B%2B/Maximum%20Number%20of%20Balls%20in%20a%20Box/Maximum%20Number%20of%20Balls%20in%20a%20Box.cpp)|Easy|
 |1736|[Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[C++](./algorithms/c%2B%2B/Latest%20Time%20by%20Replacing%20Hidden%20Digits/Latest%20Time%20by%20Replacing%20Hidden%20Digits.cpp)|Easy|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[C++](./algorithms/c%2B%2B/Find%20the%20Highest%20Altitude/Find%20the%20Highest%20Altitude.cpp)|Easy|
@@ -512,6 +513,7 @@ LeetCode
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[C++](./algorithms/c%2B%2B/Basic%20Calculator%20II/Basic%20Calculator%20II.cpp)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[C++](./algorithms/c%2B%2B/Invert%20Binary%20Tree/Invert%20Binary%20Tree.cpp)|Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C++](./algorithms/c%2B%2B/Implement%20Stack%20using%20Queues/Implement%20Stack%20using%20Queues.cpp)|Easy|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[C++](./algorithms/c%2B%2B/Maximal%20Square/Maximal%20Square.cpp)|Medium|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C++](./algorithms/c%2B%2B/Contains%20Duplicate%20III/Contains%20Duplicate%20III.cpp)|Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)|[C++](./algorithms/c%2B%2B/Contains%20Duplicate%20II/Contains%20Duplicate%20II.cpp)|Easy|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[C++](./algorithms/c%2B%2B/The%20Skyline%20Problem/The%20Skyline%20Problem.cpp)|Hard|

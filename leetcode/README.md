@@ -3,6 +3,9 @@ LeetCode
 ### LeetCode algorithms
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[C++](./algorithms/c%2B%2B/Check%20if%20Array%20Is%20Sorted%20and%20Rotated/Check%20if%20Array%20Is%20Sorted%20and%20Rotated.cpp)|Easy|
+|1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)|[C++](./algorithms/c%2B%2B/Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends/Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends.cpp)|Medium|
+|1748|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|[C++](./algorithms/c%2B%2B/Sum%20of%20Unique%20Elements/Sum%20of%20Unique%20Elements.cpp)|Easy|
 |1745|[Palindrome Partitioning IV](https://leetcode.com/problems/palindrome-partitioning-iv/)|[C++](./algorithms/c%2B%2B/Palindrome%20Partitioning%20IV/Palindrome%20Partitioning%20IV.cpp)|Hard|
 |1742|[Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/)|[C++](./algorithms/c%2B%2B/Maximum%20Number%20of%20Balls%20in%20a%20Box/Maximum%20Number%20of%20Balls%20in%20a%20Box.cpp)|Easy|
 |1736|[Latest Time by Replacing Hidden Digits](https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/)|[C++](./algorithms/c%2B%2B/Latest%20Time%20by%20Replacing%20Hidden%20Digits/Latest%20Time%20by%20Replacing%20Hidden%20Digits.cpp)|Easy|
@@ -227,7 +230,7 @@ LeetCode
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[C++](./algorithms/c%2B%2B/Unique%20Paths%20III/Unique%20Paths%20III.cpp)|Hard|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./algorithms/c%2B%2B/Squares%20of%20a%20Sorted%20Array/Squares%20of%20a%20Sorted%20Array.cpp)|Easy|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[C++](./algorithms/c%2B%2B/Largest%20Perimeter%20Triangle/Largest%20Perimeter%20Triangle.cpp)|Easy|
-|970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[C++](./algorithms/c%2B%2B/Powerful%20Integers/Powerful%20Integers.cpp)|Easy|
+|970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[C++](./algorithms/c%2B%2B/Powerful%20Integers/Powerful%20Integers.cpp)|Medium|
 |969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[C++](./algorithms/c%2B%2B/Pancake%20Sorting/Pancake%20Sorting.cpp)|Medium|
 |967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[C++](./algorithms/c%2B%2B/Numbers%20With%20Same%20Consecutive%20Differences/Numbers%20With%20Same%20Consecutive%20Differences.cpp)|Medium|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[C++](./algorithms/c%2B%2B/Univalued%20Binary%20Tree/Univalued%20Binary%20Tree.cpp)|Easy|
@@ -331,6 +334,7 @@ LeetCode
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[C++](./algorithms/c%2B%2B/Degree%20of%20an%20Array/Degree%20of%20an%20Array.cpp)|Easy|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[C++](./algorithms/c%2B%2B/Count%20Binary%20Substrings/Count%20Binary%20Substrings.cpp)|Easy|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[C++](./algorithms/c%2B%2B/Binary%20Number%20with%20Alternating%20Bits/Binary%20Number%20with%20Alternating%20Bits.cpp)|Easy|
+|692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[C#](./algorithms/c%23/Top%20K%20Frequent%20Words/Top%20K%20Frequent%20Words.cs)|Medium|
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[C++](./algorithms/c%2B%2B/Employee%20Importance/Employee%20Importance.cpp)|Easy|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)|[C++](./algorithms/c%2B%2B/Longest%20Univalue%20Path/Longest%20Univalue%20Path.cpp)|Medium|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[C++](./algorithms/c%2B%2B/Baseball%20Game/Baseball%20Game.cpp)|Easy|
@@ -456,6 +460,7 @@ LeetCode
 |359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[C++](./algorithms/c%2B%2B/Logger%20Rate%20Limiter/Logger%20Rate%20Limiter.cpp)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[C++](./algorithms/c%2B%2B/Intersection%20of%20Two%20Arrays%20II/Intersection%20of%20Two%20Arrays%20II.cpp)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](./algorithms/c%2B%2B/Intersection%20of%20Two%20Arrays/Intersection%20of%20Two%20Arrays.cpp)|Easy|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C#](./algorithms/c%23/Top%20K%20Frequent%20Elements/Top%20K%20Frequent%20Elements.cs)|Medium|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[C++](./algorithms/c%2B%2B/Moving%20Average%20from%20Data%20Stream/Moving%20Average%20from%20Data%20Stream.cpp)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[C++](./algorithms/c%2B%2B/Reverse%20Vowels%20of%20a%20String/Reverse%20Vowels%20of%20a%20String.cpp)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./algorithms/c%2B%2B/Reverse%20String/Reverse%20String.cpp)|Easy|
@@ -530,6 +535,7 @@ LeetCode
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](./algorithms/c%2B%2B/Remove%20Linked%20List%20Elements/Remove%20Linked%20List%20Elements.cpp)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./algorithms/c%2B%2B/Happy%20Number/Happy%20Number.cpp)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](./algorithms/c%2B%2B/Number%20of%20Islands/Number%20of%20Islands.cpp)|Medium|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[C++](./algorithms/c%2B%2B/Binary%20Tree%20Right%20Side%20View/Binary%20Tree%20Right%20Side%20View.cpp)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](./algorithms/c%2B%2B/House%20Robber/House%20Robber.cpp)|Medium|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)|[C++](./algorithms/c%2B%2B/Number%20of%201%20Bits/Number%20of%201%20Bits.cpp)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)|[C++](./algorithms/c%2B%2B/Reverse%20Bits/Reverse%20Bits.cpp)|Easy|

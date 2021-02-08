@@ -333,6 +333,7 @@ LeetCode
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C++](./c%2B%2B/Search%20in%20a%20Binary%20Search%20Tree/Search%20in%20a%20Binary%20Search%20Tree.cpp)|Easy|
 |697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)|[C++](./c%2B%2B/Degree%20of%20an%20Array/Degree%20of%20an%20Array.cpp)|Easy|
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)|[C++](./c%2B%2B/Count%20Binary%20Substrings/Count%20Binary%20Substrings.cpp)|Easy|
+|694|[Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/)|[C++](./c%2B%2B/Number%20of%20Distinct%20Islands/Number%20of%20Distinct%20Islands.cpp)|Medium|
 |693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)|[C++](./c%2B%2B/Binary%20Number%20with%20Alternating%20Bits/Binary%20Number%20with%20Alternating%20Bits.cpp)|Easy|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[C#](./c%23/Top%20K%20Frequent%20Words/Top%20K%20Frequent%20Words.cs)|Medium|
 |690|[Employee Importance](https://leetcode.com/problems/employee-importance/)|[C++](./c%2B%2B/Employee%20Importance/Employee%20Importance.cpp)|Easy|
@@ -482,6 +483,7 @@ LeetCode
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[C++](./c%2B%2B/Nim%20Game/Nim%20Game.cpp)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[C#](./c%23/Word%20Pattern/Word%20Pattern.cs)|Easy|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[C++](./c%2B%2B/Game%20of%20Life/Game%20of%20Life.cpp)|Medium|
+|284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[C++](./c%2B%2B/Peeking%20Iterator/Peeking%20Iterator.cpp)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./c%2B%2B/Move%20Zeroes/Move%20Zeroes.cpp)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C++](./c%2B%2B/First%20Bad%20Version/First%20Bad%20Version.cpp)|Easy|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[C++](./c%2B%2B/Find%20the%20Celebrity/Find%20the%20Celebrity.cpp)|Medium|
@@ -534,6 +536,7 @@ LeetCode
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[C++](./c%2B%2B/Count%20Primes/Count%20Primes.cpp)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C++](./c%2B%2B/Remove%20Linked%20List%20Elements/Remove%20Linked%20List%20Elements.cpp)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C++](./c%2B%2B/Happy%20Number/Happy%20Number.cpp)|Easy|
+|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)|[C++](./c%2B%2B/Bitwise%20AND%20of%20Numbers%20Range/Bitwise%20AND%20of%20Numbers%20Range.cpp)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C++](./c%2B%2B/Number%20of%20Islands/Number%20of%20Islands.cpp)|Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[C++](./c%2B%2B/Binary%20Tree%20Right%20Side%20View/Binary%20Tree%20Right%20Side%20View.cpp)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)|[C++](./c%2B%2B/House%20Robber/House%20Robber.cpp)|Medium|
@@ -552,6 +555,7 @@ LeetCode
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](./c%2B%2B/Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp)|Easy|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[C#](./c%23/Compare%20Version%20Numbers/Compare%20Version%20Numbers.cs)|Medium|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[C++](./c%2B%2B/Missing%20Ranges/Missing%20Ranges.cpp)|Easy|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](./c%2B%2B/Find%20Peak%20Element/Find%20Peak%20Element.cpp)|Medium|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[C++](./c%2B%2B/One%20Edit%20Distance/One%20Edit%20Distance.cpp)|Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C++](./c%2B%2B/Intersection%20of%20Two%20Linked%20Lists/Intersection%20of%20Two%20Linked%20Lists.cpp)|Easy|
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|[C++](./c%2B%2B/Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters/Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters.cpp)|Medium|

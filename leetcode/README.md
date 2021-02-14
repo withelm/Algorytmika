@@ -190,6 +190,7 @@ LeetCode
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/)|[C++](./algorithms/c%2B%2B/Distribute%20Candies%20to%20People/Distribute%20Candies%20to%20People.cpp)|Easy|
 |1099|[Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)|[C++](./algorithms/c%2B%2B/Two%20Sum%20Less%20Than%20K/Two%20Sum%20Less%20Than%20K.cpp)|Easy|
 |1094|[Car Pooling](https://leetcode.com/problems/car-pooling/)|[C++](./algorithms/c%2B%2B/Car%20Pooling/Car%20Pooling.cpp)|Medium|
+|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)|[C++](./algorithms/c%2B%2B/Shortest%20Path%20in%20Binary%20Matrix/Shortest%20Path%20in%20Binary%20Matrix.cpp)|Medium|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)|[C++](./algorithms/c%2B%2B/Duplicate%20Zeros/Duplicate%20Zeros.cpp)|Easy|
 |1086|[High Five](https://leetcode.com/problems/high-five/)|[C++](./algorithms/c%2B%2B/High%20Five/High%20Five.cpp)|Easy|
 |1085|[Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/)|[C++](./algorithms/c%2B%2B/Sum%20of%20Digits%20in%20the%20Minimum%20Number/Sum%20of%20Digits%20in%20the%20Minimum%20Number.cpp)|Easy|
@@ -298,6 +299,7 @@ LeetCode
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)|[C++](./algorithms/c%2B%2B/All%20Paths%20From%20Source%20to%20Target/All%20Paths%20From%20Source%20to%20Target.cpp)|Medium|
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[C++](./algorithms/c%2B%2B/Rotate%20String/Rotate%20String.cpp)|Easy|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[C++](./algorithms/c%2B%2B/Rotated%20Digits/Rotated%20Digits.cpp)|Easy|
+|785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[C++](./algorithms/c%2B%2B/Is%20Graph%20Bipartite/Is%20Graph%20Bipartite.cpp)|Medium|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[C++](./algorithms/c%2B%2B/Minimum%20Distance%20Between%20BST%20Nodes/Minimum%20Distance%20Between%20BST%20Nodes.cpp)|Easy|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[C++](./algorithms/c%2B%2B/K-th%20Symbol%20in%20Grammar/K-th%20Symbol%20in%20Grammar.cpp)|Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./algorithms/c%2B%2B/Jewels%20and%20Stones/Jewels%20and%20Stones.cpp)|Easy|

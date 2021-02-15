@@ -3,6 +3,7 @@ LeetCode
 ### LeetCode algorithms
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[C++](./c%2B%2B/Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.cpp)|Easy|
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[C++](./c%2B%2B/Check%20if%20Array%20Is%20Sorted%20and%20Rotated/Check%20if%20Array%20Is%20Sorted%20and%20Rotated.cpp)|Easy|
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)|[C++](./c%2B%2B/Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends/Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends.cpp)|Medium|
 |1748|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|[C++](./c%2B%2B/Sum%20of%20Unique%20Elements/Sum%20of%20Unique%20Elements.cpp)|Easy|
@@ -373,6 +374,7 @@ LeetCode
 |593|[Valid Square](https://leetcode.com/problems/valid-square/)|[C++](./c%2B%2B/Valid%20Square/Valid%20Square.cpp)|Medium|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[C++](./c%2B%2B/N-ary%20Tree%20Postorder%20Traversal/N-ary%20Tree%20Postorder%20Traversal.cpp)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C++](./c%2B%2B/N-ary%20Tree%20Preorder%20Traversal/N-ary%20Tree%20Preorder%20Traversal.cpp)|Easy|
+|582|[Kill Process](https://leetcode.com/problems/kill-process/)|[C++](./c%2B%2B/Kill%20Process/Kill%20Process.cpp)|Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)|[C++](./c%2B%2B/Shortest%20Unsorted%20Continuous%20Subarray/Shortest%20Unsorted%20Continuous%20Subarray.cpp)|Medium|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)|[C++](./c%2B%2B/Distribute%20Candies/Distribute%20Candies.cpp)|Easy|
 |573|[Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/)|[C++](./c%2B%2B/Squirrel%20Simulation/Squirrel%20Simulation.cpp)|Medium|

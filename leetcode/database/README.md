@@ -3,6 +3,7 @@ LeetCode
 ### LeetCode database
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MSSQL](./MSSQL/Recyclable%20and%20Low%20Fat%20Products/Recyclable%20and%20Low%20Fat%20Products.sql)|Easy|
 |1741|[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[MSSQL](./MSSQL/Find%20Total%20Time%20Spent%20by%20Each%20Employee/Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)|Easy|
 |1731|[The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/)|[MSSQL](./MSSQL/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql)|Easy|
 |1729|[Find Followers Count](https://leetcode.com/problems/find-followers-count/)|[MSSQL](./MSSQL/Find%20Followers%20Count/Find%20Followers%20Count.sql)|Easy|

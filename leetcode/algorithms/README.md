@@ -301,6 +301,7 @@ LeetCode
 |796|[Rotate String](https://leetcode.com/problems/rotate-string/)|[C++](./c%2B%2B/Rotate%20String/Rotate%20String.cpp)|Easy|
 |788|[Rotated Digits](https://leetcode.com/problems/rotated-digits/)|[C++](./c%2B%2B/Rotated%20Digits/Rotated%20Digits.cpp)|Easy|
 |785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[C++](./c%2B%2B/Is%20Graph%20Bipartite/Is%20Graph%20Bipartite.cpp)|Medium|
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[C++](./c%2B%2B/Letter%20Case%20Permutation/Letter%20Case%20Permutation.cpp)|Medium|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[C++](./c%2B%2B/Minimum%20Distance%20Between%20BST%20Nodes/Minimum%20Distance%20Between%20BST%20Nodes.cpp)|Easy|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[C++](./c%2B%2B/K-th%20Symbol%20in%20Grammar/K-th%20Symbol%20in%20Grammar.cpp)|Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./c%2B%2B/Jewels%20and%20Stones/Jewels%20and%20Stones.cpp)|Easy|
@@ -665,7 +666,7 @@ LeetCode
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[C++](./c%2B%2B/First%20Missing%20Positive/First%20Missing%20Positive.cpp)|Hard|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](./c%2B%2B/Combination%20Sum%20II/Combination%20Sum%20II.cpp)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](./c%2B%2B/Combination%20Sum/Combination%20Sum.cpp)|Medium|
-|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](./c%2B%2B/Count%20and%20Say/Count%20and%20Say.cpp)|Easy|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](./c%2B%2B/Count%20and%20Say/Count%20and%20Say.cpp)|Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](./c%2B%2B/Sudoku%20Solver/Sudoku%20Solver.cpp)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./c%2B%2B/Valid%20Sudoku/Valid%20Sudoku.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./c%2B%2B/Search%20Insert%20Position/Search%20Insert%20Position.cpp)|Easy|

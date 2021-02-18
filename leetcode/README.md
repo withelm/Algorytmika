@@ -447,6 +447,7 @@ LeetCode
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[C++](./algorithms/c%2B%2B/Partition%20Equal%20Subset%20Sum/Partition%20Equal%20Subset%20Sum.cpp)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[C++](./algorithms/c%2B%2B/Add%20Strings/Add%20Strings.cpp)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[C++](./algorithms/c%2B%2B/Third%20Maximum%20Number/Third%20Maximum%20Number.cpp)|Easy|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)|[C++](./algorithms/c%2B%2B/Arithmetic%20Slices/Arithmetic%20Slices.cpp)|Medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[C#](./algorithms/c%23/Fizz%20Buzz/Fizz%20Buzz.cs)|Easy|
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)|[C++](./algorithms/c%2B%2B/Longest%20Palindrome/Longest%20Palindrome.cpp)|Easy|
 |408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/)|[C++](./algorithms/c%2B%2B/Valid%20Word%20Abbreviation/Valid%20Word%20Abbreviation.cpp)|Easy|

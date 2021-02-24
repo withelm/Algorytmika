@@ -3,6 +3,8 @@ LeetCode
 ### LeetCode algorithms
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[C++](./algorithms/c%2B%2B/Merge%20Strings%20Alternately/Merge%20Strings%20Alternately.cpp)|Easy|
+|1763|[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)|[C++](./algorithms/c%2B%2B/Longest%20Nice%20Substring/Longest%20Nice%20Substring.cpp)|Easy|
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[C++](./algorithms/c%2B%2B/Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.cpp)|Easy|
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[C++](./algorithms/c%2B%2B/Check%20if%20Array%20Is%20Sorted%20and%20Rotated/Check%20if%20Array%20Is%20Sorted%20and%20Rotated.cpp)|Easy|
 |1750|[Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)|[C++](./algorithms/c%2B%2B/Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends/Minimum%20Length%20of%20String%20After%20Deleting%20Similar%20Ends.cpp)|Medium|
@@ -279,6 +281,7 @@ LeetCode
 |860|[Lemonade Change](https://leetcode.com/problems/lemonade-change/)|[C++](./algorithms/c%2B%2B/Lemonade%20Change/Lemonade%20Change.cpp)|Easy|
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[C++](./algorithms/c%2B%2B/Buddy%20Strings/Buddy%20Strings.cpp)|Easy|
 |858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/)|[C++](./algorithms/c%2B%2B/Mirror%20Reflection/Mirror%20Reflection.cpp)|Medium|
+|856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)|[C++](./algorithms/c%2B%2B/Score%20of%20Parentheses/Score%20of%20Parentheses.cpp)|Medium|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|[C++](./algorithms/c%2B%2B/Peak%20Index%20in%20a%20Mountain%20Array/Peak%20Index%20in%20a%20Mountain%20Array.cpp)|Easy|
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[C++](./algorithms/c%2B%2B/Maximize%20Distance%20to%20Closest%20Person/Maximize%20Distance%20to%20Closest%20Person.cpp)|Medium|
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[C++](./algorithms/c%2B%2B/Longest%20Mountain%20in%20Array/Longest%20Mountain%20in%20Array.cpp)|Medium|
@@ -396,6 +399,7 @@ LeetCode
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[C++](./algorithms/c%2B%2B/K-diff%20Pairs%20in%20an%20Array/K-diff%20Pairs%20in%20an%20Array.cpp)|Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[C++](./algorithms/c%2B%2B/Minimum%20Absolute%20Difference%20in%20BST/Minimum%20Absolute%20Difference%20in%20BST.cpp)|Easy|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)|[C++](./algorithms/c%2B%2B/Beautiful%20Arrangement/Beautiful%20Arrangement.cpp)|Medium|
+|524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)|[C++](./algorithms/c%2B%2B/Longest%20Word%20in%20Dictionary%20through%20Deleting/Longest%20Word%20in%20Dictionary%20through%20Deleting.cpp)|Medium|
 |521|[Longest Uncommon Subsequence I](https://leetcode.com/problems/longest-uncommon-subsequence-i/)|[C++](./algorithms/c%2B%2B/Longest%20Uncommon%20Subsequence%20I/Longest%20Uncommon%20Subsequence%20I.cpp)|Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/)|[C++](./algorithms/c%2B%2B/Detect%20Capital/Detect%20Capital.cpp)|Easy|
 |510|[Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/)|[C++](./algorithms/c%2B%2B/Inorder%20Successor%20in%20BST%20II/Inorder%20Successor%20in%20BST%20II.cpp)|Medium|

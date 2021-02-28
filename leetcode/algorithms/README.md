@@ -245,6 +245,7 @@ LeetCode
 |952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/)|[C++](./c%2B%2B/Largest%20Component%20Size%20by%20Common%20Factor/Largest%20Component%20Size%20by%20Common%20Factor.cpp)|Hard|
 |949|[Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/)|[C++](./c%2B%2B/Largest%20Time%20for%20Given%20Digits/Largest%20Time%20for%20Given%20Digits.cpp)|Medium|
 |948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[C++](./c%2B%2B/Bag%20of%20Tokens/Bag%20of%20Tokens.cpp)|Medium|
+|946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](./c%2B%2B/Validate%20Stack%20Sequences/Validate%20Stack%20Sequences.cpp)|Medium|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[C++](./c%2B%2B/Delete%20Columns%20to%20Make%20Sorted/Delete%20Columns%20to%20Make%20Sorted.cpp)|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[C++](./c%2B%2B/DI%20String%20Match/DI%20String%20Match.cpp)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[C++](./c%2B%2B/Valid%20Mountain%20Array/Valid%20Mountain%20Array.cpp)|Easy|
@@ -264,6 +265,7 @@ LeetCode
 |902|[Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)|[C++](./c%2B%2B/Numbers%20At%20Most%20N%20Given%20Digit%20Set/Numbers%20At%20Most%20N%20Given%20Digit%20Set.cpp)|Hard|
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/)|[C++](./c%2B%2B/Increasing%20Order%20Search%20Tree/Increasing%20Order%20Search%20Tree.cpp)|Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/)|[C++](./c%2B%2B/Monotonic%20Array/Monotonic%20Array.cpp)|Easy|
+|895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[C++](./c%2B%2B/Maximum%20Frequency%20Stack/Maximum%20Frequency%20Stack.cpp)|Hard|
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)|[C++](./c%2B%2B/Groups%20of%20Special-Equivalent%20Strings/Groups%20of%20Special-Equivalent%20Strings.cpp)|Easy|
 |892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[C++](./c%2B%2B/Surface%20Area%20of%203D%20Shapes/Surface%20Area%20of%203D%20Shapes.cpp)|Easy|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[C++](./c%2B%2B/Fair%20Candy%20Swap/Fair%20Candy%20Swap.cpp)|Easy|
@@ -505,7 +507,7 @@ LeetCode
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[C++](./c%2B%2B/Move%20Zeroes/Move%20Zeroes.cpp)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C++](./c%2B%2B/First%20Bad%20Version/First%20Bad%20Version.cpp)|Easy|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[C++](./c%2B%2B/Find%20the%20Celebrity/Find%20the%20Celebrity.cpp)|Medium|
-|276|[Paint Fence](https://leetcode.com/problems/paint-fence/)|[C++](./c%2B%2B/Paint%20Fence/Paint%20Fence.cpp)|Easy|
+|276|[Paint Fence](https://leetcode.com/problems/paint-fence/)|[C++](./c%2B%2B/Paint%20Fence/Paint%20Fence.cpp)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/)|[C++](./c%2B%2B/H-Index/H-Index.cpp)|Medium|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[C++](./c%2B%2B/Integer%20to%20English%20Words/Integer%20to%20English%20Words.cpp)|Hard|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[C++](./c%2B%2B/Closest%20Binary%20Search%20Tree%20Value/Closest%20Binary%20Search%20Tree%20Value.cpp)|Easy|
@@ -679,6 +681,7 @@ LeetCode
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](./c%2B%2B/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./c%2B%2B/Search%20in%20Rotated%20Sorted%20Array/Search%20in%20Rotated%20Sorted%20Array.cpp)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](./c%2B%2B/Next%20Permutation/Next%20Permutation.cpp)|Medium|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C++](./c%2B%2B/Divide%20Two%20Integers/Divide%20Two%20Integers.cpp)|Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](./c%2B%2B/Implement%20strStr%28%29/Implement%20strStr%28%29.cpp)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[C++](./c%2B%2B/Remove%20Element/Remove%20Element.cpp)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[C++](./c%2B%2B/Remove%20Duplicates%20from%20Sorted%20Array/Remove%20Duplicates%20from%20Sorted%20Array.cpp)|Easy|

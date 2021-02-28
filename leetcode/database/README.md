@@ -78,12 +78,15 @@ LeetCode
 |577|[Employee Bonus](https://leetcode.com/problems/employee-bonus/)|[MSSQL](./MSSQL/Employee%20Bonus/Employee%20Bonus.sql)|Easy|
 |574|[Winning Candidate](https://leetcode.com/problems/winning-candidate/)|[MSSQL](./MSSQL/Winning%20Candidate/Winning%20Candidate.sql)|Medium|
 |570|[Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/)|[MSSQL](./MSSQL/Managers%20with%20at%20Least%205%20Direct%20Reports/Managers%20with%20at%20Least%205%20Direct%20Reports.sql)|Medium|
+|569|[Median Employee Salary](https://leetcode.com/problems/median-employee-salary/)|[MSSQL](./MSSQL/Median%20Employee%20Salary/Median%20Employee%20Salary.sql)|Hard|
 |550|[Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/)|[MSSQL](./MSSQL/Game%20Play%20Analysis%20IV/Game%20Play%20Analysis%20IV.sql)|Medium|
 |534|[Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/)|[MSSQL](./MSSQL/Game%20Play%20Analysis%20III/Game%20Play%20Analysis%20III.sql)|Medium|
 |512|[Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/)|[MSSQL](./MSSQL/Game%20Play%20Analysis%20II/Game%20Play%20Analysis%20II.sql)|Easy|
 |511|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)|[MSSQL](./MSSQL/Game%20Play%20Analysis%20I/Game%20Play%20Analysis%20I.sql)|Easy|
+|262|[Trips and Users](https://leetcode.com/problems/trips-and-users/)|[MSSQL](./MSSQL/Trips%20and%20Users/Trips%20and%20Users.sql)|Hard|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)|[MSSQL](./MSSQL/Rising%20Temperature/Rising%20Temperature.sql)|Easy|
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MSSQL](./MSSQL/Delete%20Duplicate%20Emails/Delete%20Duplicate%20Emails.sql)|Easy|
+|185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[MSSQL](./MSSQL/Department%20Top%20Three%20Salaries/Department%20Top%20Three%20Salaries.sql)|Hard|
 |184|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)|[MSSQL](./MSSQL/Department%20Highest%20Salary/Department%20Highest%20Salary.sql)|Medium|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)|[MSSQL](./MSSQL/Customers%20Who%20Never%20Order/Customers%20Who%20Never%20Order.sql)|Easy|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)|[MSSQL](./MSSQL/Duplicate%20Emails/Duplicate%20Emails.sql)|Easy|

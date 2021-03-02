@@ -3,6 +3,7 @@ LeetCode
 ### LeetCode algorithms
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[C++](./c%2B%2B/Count%20Items%20Matching%20a%20Rule/Count%20Items%20Matching%20a%20Rule.cpp)|Easy|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[C++](./c%2B%2B/Merge%20Strings%20Alternately/Merge%20Strings%20Alternately.cpp)|Easy|
 |1763|[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)|[C++](./c%2B%2B/Longest%20Nice%20Substring/Longest%20Nice%20Substring.cpp)|Easy|
 |1758|[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|[C++](./c%2B%2B/Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String/Minimum%20Changes%20To%20Make%20Alternating%20Binary%20String.cpp)|Easy|

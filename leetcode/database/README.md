@@ -3,6 +3,7 @@ LeetCode
 ### LeetCode database
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1777|[Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/)|[MSSQL](./MSSQL/Product%27s%20Price%20for%20Each%20Store/Product%27s%20Price%20for%20Each%20Store.sql)|Easy|
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MSSQL](./MSSQL/Recyclable%20and%20Low%20Fat%20Products/Recyclable%20and%20Low%20Fat%20Products.sql)|Easy|
 |1741|[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[MSSQL](./MSSQL/Find%20Total%20Time%20Spent%20by%20Each%20Employee/Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)|Easy|
 |1731|[The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/)|[MSSQL](./MSSQL/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql)|Easy|
@@ -68,12 +69,14 @@ LeetCode
 |607|[Sales Person](https://leetcode.com/problems/sales-person/)|[MSSQL](./MSSQL/Sales%20Person/Sales%20Person.sql)|Easy|
 |603|[Consecutive Available Seats](https://leetcode.com/problems/consecutive-available-seats/)|[MSSQL](./MSSQL/Consecutive%20Available%20Seats/Consecutive%20Available%20Seats.sql)|Easy|
 |602|[Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/)|[MSSQL](./MSSQL/Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends/Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends.sql)|Medium|
+|601|[Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/)|[MSSQL](./MSSQL/Human%20Traffic%20of%20Stadium/Human%20Traffic%20of%20Stadium.sql)|Hard|
 |597|[Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/)|[MSSQL](./MSSQL/Friend%20Requests%20I%20Overall%20Acceptance%20Rate/Friend%20Requests%20I%20Overall%20Acceptance%20Rate.sql)|Easy|
 |596|[Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)|[MySQL](./MySQL/Classes%20More%20Than%205%20Students/Classes%20More%20Than%205%20Students.sql)|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[MSSQL](./MSSQL/Big%20Countries/Big%20Countries.sql)|Easy|
 |586|[Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)|[MSSQL](./MSSQL/Customer%20Placing%20the%20Largest%20Number%20of%20Orders/Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)|Easy|
 |584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[MSSQL](./MSSQL/Find%20Customer%20Referee/Find%20Customer%20Referee.sql)|Easy|
 |580|[Count Student Number in Departments](https://leetcode.com/problems/count-student-number-in-departments/)|[MSSQL](./MSSQL/Count%20Student%20Number%20in%20Departments/Count%20Student%20Number%20in%20Departments.sql)|Medium|
+|579|[Find Cumulative Salary of an Employee](https://leetcode.com/problems/find-cumulative-salary-of-an-employee/)|[MSSQL](./MSSQL/Find%20Cumulative%20Salary%20of%20an%20Employee/Find%20Cumulative%20Salary%20of%20an%20Employee.sql)|Hard|
 |578|[Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/)|[MSSQL](./MSSQL/Get%20Highest%20Answer%20Rate%20Question/Get%20Highest%20Answer%20Rate%20Question.sql)|Medium|
 |577|[Employee Bonus](https://leetcode.com/problems/employee-bonus/)|[MSSQL](./MSSQL/Employee%20Bonus/Employee%20Bonus.sql)|Easy|
 |574|[Winning Candidate](https://leetcode.com/problems/winning-candidate/)|[MSSQL](./MSSQL/Winning%20Candidate/Winning%20Candidate.sql)|Medium|

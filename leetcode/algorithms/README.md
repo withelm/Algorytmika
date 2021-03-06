@@ -296,6 +296,7 @@ LeetCode
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[C++](./c%2B%2B/Positions%20of%20Large%20Groups/Positions%20of%20Large%20Groups.cpp)|Easy|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[C++](./c%2B%2B/Goat%20Latin/Goat%20Latin.cpp)|Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[C++](./c%2B%2B/Shortest%20Distance%20to%20a%20Character/Shortest%20Distance%20to%20a%20Character.cpp)|Easy|
+|820|[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|[C++](./c%2B%2B/Short%20Encoding%20of%20Words/Short%20Encoding%20of%20Words.cpp)|Medium|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[C#](./c%23/Most%20Common%20Word/Most%20Common%20Word.cs)|Easy|
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/)|[C++](./c%2B%2B/Largest%20Triangle%20Area/Largest%20Triangle%20Area.cpp)|Easy|
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/submissions/)|[C++](./c%2B%2B/Subdomain%20Visit%20Count/Subdomain%20Visit%20Count.cpp)|Easy|

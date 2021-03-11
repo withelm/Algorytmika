@@ -373,6 +373,7 @@ LeetCode
 |633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[C++](./algorithms/c%2B%2B/Sum%20of%20Square%20Numbers/Sum%20of%20Square%20Numbers.cpp)|Medium|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[C++](./algorithms/c%2B%2B/Maximum%20Product%20of%20Three%20Numbers/Maximum%20Product%20of%20Three%20Numbers.cpp)|Easy|
 |624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)|[C++](./algorithms/c%2B%2B/Maximum%20Distance%20in%20Arrays/Maximum%20Distance%20in%20Arrays.cpp)|Medium|
+|623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[C++](./algorithms/c%2B%2B/Add%20One%20Row%20to%20Tree/Add%20One%20Row%20to%20Tree.cpp)|Medium|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](./algorithms/c%2B%2B/Merge%20Two%20Binary%20Trees/Merge%20Two%20Binary%20Trees.cpp)|Easy|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[C++](./algorithms/c%2B%2B/Construct%20String%20from%20Binary%20Tree/Construct%20String%20from%20Binary%20Tree.cpp)|Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[C++](./algorithms/c%2B%2B/Can%20Place%20Flowers/Can%20Place%20Flowers.cpp)|Easy|
@@ -491,6 +492,7 @@ LeetCode
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[C++](./algorithms/c%2B%2B/Increasing%20Triplet%20Subsequence/Increasing%20Triplet%20Subsequence.cpp)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[C#](./algorithms/c%23/Odd%20Even%20Linked%20List/Odd%20Even%20Linked%20List.cs)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[C++](./algorithms/c%2B%2B/Power%20of%20Three/Power%20of%20Three.cpp)|Easy|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/)|[C++](./algorithms/c%2B%2B/Coin%20Change/Coin%20Change.cpp)|Medium|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[C++](./algorithms/c%2B%2B/Remove%20Duplicate%20Letters/Remove%20Duplicate%20Letters.cpp)|Medium|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](./algorithms/c%2B%2B/Burst%20Balloons/Burst%20Balloons.cpp)|Hard|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[C++](./algorithms/c%2B%2B/Minimum%20Height%20Trees/Minimum%20Height%20Trees.cpp)|Medium|

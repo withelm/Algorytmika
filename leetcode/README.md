@@ -295,6 +295,7 @@ LeetCode
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[C++](./algorithms/c%2B%2B/Flipping%20an%20Image/Flipping%20an%20Image.cpp)|Easy|
 |830|[Positions of Large Groups](https://leetcode.com/problems/positions-of-large-groups/)|[C++](./algorithms/c%2B%2B/Positions%20of%20Large%20Groups/Positions%20of%20Large%20Groups.cpp)|Easy|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[C++](./algorithms/c%2B%2B/Goat%20Latin/Goat%20Latin.cpp)|Easy|
+|823|[Binary Trees With Factors](https://leetcode.com/problems/binary-trees-with-factors/)|[C++](./algorithms/c%2B%2B/Binary%20Trees%20With%20Factors/Binary%20Trees%20With%20Factors.cpp)|Medium|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[C++](./algorithms/c%2B%2B/Shortest%20Distance%20to%20a%20Character/Shortest%20Distance%20to%20a%20Character.cpp)|Easy|
 |820|[Short Encoding of Words](https://leetcode.com/problems/short-encoding-of-words/)|[C++](./algorithms/c%2B%2B/Short%20Encoding%20of%20Words/Short%20Encoding%20of%20Words.cpp)|Medium|
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/)|[C#](./algorithms/c%23/Most%20Common%20Word/Most%20Common%20Word.cs)|Easy|

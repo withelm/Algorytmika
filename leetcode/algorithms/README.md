@@ -681,7 +681,7 @@ LeetCode
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[C++](./c%2B%2B/Combination%20Sum%20II/Combination%20Sum%20II.cpp)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)|[C++](./c%2B%2B/Combination%20Sum/Combination%20Sum.cpp)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[C++](./c%2B%2B/Count%20and%20Say/Count%20and%20Say.cpp)|Medium|
-|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](./c%2B%2B/Sudoku%20Solver/Sudoku%20Solver.cpp)|Hard|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](./c%2B%2B/Sudoku%20Solver/Sudoku%20Solver.cpp), [Python](./python/Sudoku%20Solver/Sudoku%20Solver.py)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[C++](./c%2B%2B/Valid%20Sudoku/Valid%20Sudoku.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./c%2B%2B/Search%20Insert%20Position/Search%20Insert%20Position.cpp)|Easy|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](./c%2B%2B/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)|Medium|

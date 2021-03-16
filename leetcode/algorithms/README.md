@@ -334,6 +334,7 @@ LeetCode
 |720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/)|[C++](./c%2B%2B/Longest%20Word%20in%20Dictionary/Longest%20Word%20in%20Dictionary.cpp)|Easy|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)|[C++](./c%2B%2B/1-bit%20and%202-bit%20Characters/1-bit%20and%202-bit%20Characters.cpp)|Easy|
 |716|[Max Stack](https://leetcode.com/problems/max-stack/)|[C++](./c%2B%2B/Max%20Stack/Max%20Stack.cpp)|Easy|
+|714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)|[C++](./c%2B%2B/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.cpp)|Medium|
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/)|[C++](./c%2B%2B/Subarray%20Product%20Less%20Than%20K/Subarray%20Product%20Less%20Than%20K.cpp)|Medium|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[C++](./c%2B%2B/To%20Lower%20Case/To%20Lower%20Case.cpp)|Easy|
 |708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/)|[C++](./c%2B%2B/Insert%20into%20a%20Sorted%20Circular%20Linked%20List/Insert%20into%20a%20Sorted%20Circular%20Linked%20List.cpp)|Medium|
@@ -402,6 +403,7 @@ LeetCode
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[C++](./c%2B%2B/01%20Matrix/01%20Matrix.cpp)|Medium|
 |541|[Reverse String II](https://leetcode.com/problems/reverse-string-ii/)|[C++](./c%2B%2B/Reverse%20String%20II/Reverse%20String%20II.cpp)|Easy|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)|[C++](./c%2B%2B/Convert%20BST%20to%20Greater%20Tree/Convert%20BST%20to%20Greater%20Tree.cpp)|Medium|
+|536|[Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/)|[C++](./c%2B%2B/Construct%20Binary%20Tree%20from%20String/Construct%20Binary%20Tree%20from%20String.cpp)|Medium|
 |535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)|[C++](./c%2B%2B/Encode%20and%20Decode%20TinyURL/Encode%20and%20Decode%20TinyURL.cpp)|Medium|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)|[C++](./c%2B%2B/K-diff%20Pairs%20in%20an%20Array/K-diff%20Pairs%20in%20an%20Array.cpp)|Medium|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[C++](./c%2B%2B/Minimum%20Absolute%20Difference%20in%20BST/Minimum%20Absolute%20Difference%20in%20BST.cpp)|Easy|

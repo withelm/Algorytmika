@@ -170,6 +170,7 @@ LeetCode
 |1213|[Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/)|[C++](./algorithms/c%2B%2B/Intersection%20of%20Three%20Sorted%20Arrays/Intersection%20of%20Three%20Sorted%20Arrays.cpp)|Easy|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[C++](./algorithms/c%2B%2B/Unique%20Number%20of%20Occurrences/Unique%20Number%20of%20Occurrences.cpp)|Easy|
 |1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[C++](./algorithms/c%2B%2B/Minimum%20Absolute%20Difference/Minimum%20Absolute%20Difference.cpp)|Easy|
+|1198|[Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/)|[C++](./algorithms/c%2B%2B/Find%20Smallest%20Common%20Element%20in%20All%20Rows/Find%20Smallest%20Common%20Element%20in%20All%20Rows.cpp)|Medium|
 |1196|[How Many Apples Can You Put into the Basket](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/)|[C++](./algorithms/c%2B%2B/How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket/How%20Many%20Apples%20Can%20You%20Put%20into%20the%20Basket.cpp)|Easy|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/)|[C++](./algorithms/c%2B%2B/Maximum%20Number%20of%20Balloons/Maximum%20Number%20of%20Balloons.cpp)|Easy|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[C#](./algorithms/c%23/Day%20of%20the%20Week/Day%20of%20the%20Week.cs)|Easy|
@@ -240,6 +241,7 @@ LeetCode
 |970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[C++](./algorithms/c%2B%2B/Powerful%20Integers/Powerful%20Integers.cpp)|Medium|
 |969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[C++](./algorithms/c%2B%2B/Pancake%20Sorting/Pancake%20Sorting.cpp)|Medium|
 |967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[C++](./algorithms/c%2B%2B/Numbers%20With%20Same%20Consecutive%20Differences/Numbers%20With%20Same%20Consecutive%20Differences.cpp)|Medium|
+|966|[Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/)|[C++](./algorithms/c%2B%2B/Vowel%20Spellchecker/Vowel%20Spellchecker.cpp)|Medium|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)|[C++](./algorithms/c%2B%2B/Univalued%20Binary%20Tree/Univalued%20Binary%20Tree.cpp)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[C++](./algorithms/c%2B%2B/N-Repeated%20Element%20in%20Size%202N%20Array/N-Repeated%20Element%20in%20Size%202N%20Array.cpp)|Easy|
 |957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)|[C++](./algorithms/c%2B%2B/Prison%20Cells%20After%20N%20Days/Prison%20Cells%20After%20N%20Days.cpp)|Medium|
@@ -279,6 +281,7 @@ LeetCode
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[C++](./algorithms/c%2B%2B/Middle%20of%20the%20Linked%20List/Middle%20of%20the%20Linked%20List.cpp)|Easy|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[C++](./algorithms/c%2B%2B/Walking%20Robot%20Simulation/Walking%20Robot%20Simulation.cpp)|Easy|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[C++](./algorithms/c%2B%2B/Leaf-Similar%20Trees/Leaf-Similar%20Trees.cpp)|Easy|
+|869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[C++](./algorithms/c%2B%2B/Reordered%20Power%20of%202/Reordered%20Power%20of%202.cpp)|Medium|
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/)|[C++](./algorithms/c%2B%2B/Binary%20Gap/Binary%20Gap.cpp)|Easy|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[C++](./algorithms/c%2B%2B/Transpose%20Matrix/Transpose%20Matrix.cpp)|Easy|
 |865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/)|[C++](./algorithms/c%2B%2B/Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes/Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes.cpp)|Medium|
@@ -290,6 +293,7 @@ LeetCode
 |849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/)|[C++](./algorithms/c%2B%2B/Maximize%20Distance%20to%20Closest%20Person/Maximize%20Distance%20to%20Closest%20Person.cpp)|Medium|
 |845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)|[C++](./algorithms/c%2B%2B/Longest%20Mountain%20in%20Array/Longest%20Mountain%20in%20Array.cpp)|Medium|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[C++](./algorithms/c%2B%2B/Backspace%20String%20Compare/Backspace%20String%20Compare.cpp)|Easy|
+|841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[C++](./algorithms/c%2B%2B/Keys%20and%20Rooms/Keys%20and%20Rooms.cpp)|Medium|
 |840|[Magic Squares In Grid](https://leetcode.com/problems/magic-squares-in-grid/)|[C++](./algorithms/c%2B%2B/Magic%20Squares%20In%20Grid/Magic%20Squares%20In%20Grid.cpp)|Medium|
 |836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/)|[C++](./algorithms/c%2B%2B/Rectangle%20Overlap/Rectangle%20Overlap.cpp)|Easy|
 |835|[Image Overlap](https://leetcode.com/problems/image-overlap/)|[C++](./algorithms/c%2B%2B/Image%20Overlap/Image%20Overlap.cpp)|Medium|
@@ -428,6 +432,7 @@ LeetCode
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)|[C++](./algorithms/c%2B%2B/Max%20Consecutive%20Ones%20II/Max%20Consecutive%20Ones%20II.cpp)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[C++](./algorithms/c%2B%2B/Max%20Consecutive%20Ones/Max%20Consecutive%20Ones.cpp)|Easy|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[C++](./algorithms/c%2B%2B/License%20Key%20Formatting/License%20Key%20Formatting.cpp)|Easy|
+|478|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[C++](./algorithms/c%2B%2B/Generate%20Random%20Point%20in%20a%20Circle/Generate%20Random%20Point%20in%20a%20Circle.cpp)|Medium|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[C++](./algorithms/c%2B%2B/Number%20Complement/Number%20Complement.cpp)|Easy|
 |475|[Heaters](https://leetcode.com/problems/heaters/)|[C++](./algorithms/c%2B%2B/Heaters/Heaters.cpp)|Medium|
 |470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[C++](./algorithms/c%2B%2B/Implement%20Rand10%28%29%20Using%20Rand7%28%29/Implement%20Rand10%28%29%20Using%20Rand7%28%29.cpp)|Medium|
@@ -479,6 +484,7 @@ LeetCode
 |382|[Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)|[C#](./algorithms/c%23/Linked%20List%20Random%20Node/Linked%20List%20Random%20Node.cs)|Medium|
 |380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](./algorithms/c%2B%2B/Insert%20Delete%20GetRandom%20O%281%29/Insert%20Delete%20GetRandom%20O%281%29.cpp)|Medium|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[C++](./algorithms/c%2B%2B/Combination%20Sum%20IV/Combination%20Sum%20IV.cpp)|Medium|
+|376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)|[C++](./algorithms/c%2B%2B/Wiggle%20Subsequence/Wiggle%20Subsequence.cpp)|Medium|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C++](./algorithms/c%2B%2B/Guess%20Number%20Higher%20or%20Lower/Guess%20Number%20Higher%20or%20Lower.cpp)|Easy|
 |369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)|[C++](./algorithms/c%2B%2B/Plus%20One%20Linked%20List/Plus%20One%20Linked%20List.cpp)|Medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./algorithms/c%2B%2B/Valid%20Perfect%20Square/Valid%20Perfect%20Square.cpp)|Easy|

@@ -3,6 +3,7 @@ LeetCode
 ### LeetCode algorithms
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)|[C++](./algorithms/c%2B%2B/Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate/Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.cpp)|Easy|
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[C++](./algorithms/c%2B%2B/Count%20Items%20Matching%20a%20Rule/Count%20Items%20Matching%20a%20Rule.cpp)|Easy|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[C++](./algorithms/c%2B%2B/Merge%20Strings%20Alternately/Merge%20Strings%20Alternately.cpp)|Easy|
 |1763|[Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)|[C++](./algorithms/c%2B%2B/Longest%20Nice%20Substring/Longest%20Nice%20Substring.cpp)|Easy|
@@ -258,8 +259,10 @@ LeetCode
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[C++](./algorithms/c%2B%2B/Number%20of%20Recent%20Calls/Number%20of%20Recent%20Calls.cpp)|Easy|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[C#](./algorithms/c%23/Unique%20Email%20Addresses/Unique%20Email%20Addresses.cs)|Easy|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[C++](./algorithms/c%2B%2B/Long%20Pressed%20Name/Long%20Pressed%20Name.cpp)|Easy|
+|923|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/)|[C++](./algorithms/c%2B%2B/3Sum%20With%20Multiplicity/3Sum%20With%20Multiplicity.cpp)|Medium|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)|[C++](./algorithms/c%2B%2B/Sort%20Array%20By%20Parity%20II/Sort%20Array%20By%20Parity%20II.cpp)|Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)|[C++](./algorithms/c%2B%2B/Reverse%20Only%20Letters/Reverse%20Only%20Letters.cpp)|Easy|
+|916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[C++](./algorithms/c%2B%2B/Word%20Subsets/Word%20Subsets.cpp)|Medium|
 |914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)|[C++](./algorithms/c%2B%2B/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards/X%20of%20a%20Kind%20in%20a%20Deck%20of%20Cards.cpp)|Easy|
 |912|[Sort an Array](https://leetcode.com/problems/sort-an-array/)|[C++](./algorithms/c%2B%2B/Sort%20an%20Array/Sort%20an%20Array.cpp)|Medium|
 |910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/)|[C++](./algorithms/c%2B%2B/Smallest%20Range%20II/Smallest%20Range%20II.cpp)|Medium|
@@ -281,6 +284,7 @@ LeetCode
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)|[C++](./algorithms/c%2B%2B/Middle%20of%20the%20Linked%20List/Middle%20of%20the%20Linked%20List.cpp)|Easy|
 |874|[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation/)|[C++](./algorithms/c%2B%2B/Walking%20Robot%20Simulation/Walking%20Robot%20Simulation.cpp)|Easy|
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)|[C++](./algorithms/c%2B%2B/Leaf-Similar%20Trees/Leaf-Similar%20Trees.cpp)|Easy|
+|870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/)|[C++](./algorithms/c%2B%2B/Advantage%20Shuffle/Advantage%20Shuffle.cpp)|Medium|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/)|[C++](./algorithms/c%2B%2B/Reordered%20Power%20of%202/Reordered%20Power%20of%202.cpp)|Medium|
 |868|[Binary Gap](https://leetcode.com/problems/binary-gap/)|[C++](./algorithms/c%2B%2B/Binary%20Gap/Binary%20Gap.cpp)|Easy|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[C++](./algorithms/c%2B%2B/Transpose%20Matrix/Transpose%20Matrix.cpp)|Easy|
@@ -463,6 +467,7 @@ LeetCode
 |422|[Valid Word Square](https://leetcode.com/problems/valid-word-square/)|[C++](./algorithms/c%2B%2B/Valid%20Word%20Square/Valid%20Word%20Square.cpp)|Easy|
 |421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[C++](./algorithms/c%2B%2B/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.cpp)|Medium|
 |418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/)|[C++](./algorithms/c%2B%2B/Sentence%20Screen%20Fitting/Sentence%20Screen%20Fitting.cpp)|Medium|
+|417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)|[C++](./algorithms/c%2B%2B/Pacific%20Atlantic%20Water%20Flow/Pacific%20Atlantic%20Water%20Flow.cpp)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)|[C++](./algorithms/c%2B%2B/Partition%20Equal%20Subset%20Sum/Partition%20Equal%20Subset%20Sum.cpp)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)|[C++](./algorithms/c%2B%2B/Add%20Strings/Add%20Strings.cpp)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[C++](./algorithms/c%2B%2B/Third%20Maximum%20Number/Third%20Maximum%20Number.cpp)|Easy|

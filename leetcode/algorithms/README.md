@@ -377,6 +377,7 @@ LeetCode
 |651|[4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/)|[C++](./c%2B%2B/4%20Keys%20Keyboard/4%20Keys%20Keyboard.cpp)|Medium|
 |650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/)|[C++](./c%2B%2B/2%20Keys%20Keyboard/2%20Keys%20Keyboard.cpp)|Medium|
 |648|[Replace Words](https://leetcode.com/problems/replace-words/)|[C++](./c%2B%2B/Replace%20Words/Replace%20Words.cpp)|Medium|
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[C++](./c%2B%2B/Palindromic%20Substrings/Palindromic%20Substrings.cpp)|Medium|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)|[C++](./c%2B%2B/Set%20Mismatch/Set%20Mismatch.cpp)|Easy|
 |644|[Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/)|[C++](./c%2B%2B/Maximum%20Average%20Subarray%20II/Maximum%20Average%20Subarray%20II.cpp)|Hard|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)|[C++](./c%2B%2B/Maximum%20Average%20Subarray%20I/Maximum%20Average%20Subarray%20I.cpp)|Easy|
@@ -464,6 +465,7 @@ LeetCode
 |428|[Serialize and Deserialize N-ary Tree](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/)|[C++](./c%2B%2B/Serialize%20and%20Deserialize%20N-ary%20Tree/Serialize%20and%20Deserialize%20N-ary%20Tree.cpp)|Hard|
 |426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)|[C++](./c%2B%2B/Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List/Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List.cpp)|Medium|
 |425|[Word Squares](https://leetcode.com/problems/word-squares/)|[C++](./c%2B%2B/Word%20Squares/Word%20Squares.cpp)|Hard|
+|423|[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/)|[C++](./c%2B%2B/Reconstruct%20Original%20Digits%20from%20English/Reconstruct%20Original%20Digits%20from%20English.cpp)|Medium|
 |422|[Valid Word Square](https://leetcode.com/problems/valid-word-square/)|[C++](./c%2B%2B/Valid%20Word%20Square/Valid%20Word%20Square.cpp)|Easy|
 |421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[C++](./c%2B%2B/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.cpp)|Medium|
 |418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/)|[C++](./c%2B%2B/Sentence%20Screen%20Fitting/Sentence%20Screen%20Fitting.cpp)|Medium|

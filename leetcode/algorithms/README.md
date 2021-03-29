@@ -185,6 +185,7 @@ LeetCode
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[C#](./c%23/Day%20of%20the%20Year/Day%20of%20the%20Year.cs)|Easy|
 |1150|[Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/)|[C++](./c%2B%2B/Check%20If%20a%20Number%20Is%20Majority%20Element%20in%20a%20Sorted%20Array/Check%20If%20a%20Number%20Is%20Majority%20Element%20in%20a%20Sorted%20Array.cpp)|Easy|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[C++](./c%2B%2B/N-th%20Tribonacci%20Number/N-th%20Tribonacci%20Number.cpp)|Easy|
+|1136|[Parallel Courses](https://leetcode.com/problems/parallel-courses/)|[C++](./c%2B%2B/Parallel%20Courses/Parallel%20Courses.cpp)|Medium|
 |1134|[Armstrong Number](https://leetcode.com/problems/armstrong-number/)|[C++](./c%2B%2B/Armstrong%20Number/Armstrong%20Number.cpp)|Easy|
 |1133|[Largest Unique Number](https://leetcode.com/problems/largest-unique-number/)|[C++](./c%2B%2B/Largest%20Unique%20Number/Largest%20Unique%20Number.cpp)|Easy|
 |1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)|[C++](./c%2B%2B/Number%20of%20Equivalent%20Domino%20Pairs/Number%20of%20Equivalent%20Domino%20Pairs.cpp)|Easy|
@@ -239,6 +240,7 @@ LeetCode
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/)|[C++](./c%2B%2B/Unique%20Paths%20III/Unique%20Paths%20III.cpp)|Hard|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[C++](./c%2B%2B/Squares%20of%20a%20Sorted%20Array/Squares%20of%20a%20Sorted%20Array.cpp)|Easy|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)|[C++](./c%2B%2B/Largest%20Perimeter%20Triangle/Largest%20Perimeter%20Triangle.cpp)|Easy|
+|971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)|[C++](./c%2B%2B/Flip%20Binary%20Tree%20To%20Match%20Preorder%20Traversal/Flip%20Binary%20Tree%20To%20Match%20Preorder%20Traversal.cpp)|Medium|
 |970|[Powerful Integers](https://leetcode.com/problems/powerful-integers/)|[C++](./c%2B%2B/Powerful%20Integers/Powerful%20Integers.cpp)|Medium|
 |969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)|[C++](./c%2B%2B/Pancake%20Sorting/Pancake%20Sorting.cpp)|Medium|
 |967|[Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/)|[C++](./c%2B%2B/Numbers%20With%20Same%20Consecutive%20Differences/Numbers%20With%20Same%20Consecutive%20Differences.cpp)|Medium|

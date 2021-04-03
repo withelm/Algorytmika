@@ -258,6 +258,7 @@ LeetCode
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[C++](./c%2B%2B/Valid%20Mountain%20Array/Valid%20Mountain%20Array.cpp)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](./c%2B%2B/Range%20Sum%20of%20BST/Range%20Sum%20of%20BST.cpp)|Easy|
 |937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)|[C++](./c%2B%2B/Reorder%20Data%20in%20Log%20Files/Reorder%20Data%20in%20Log%20Files.cpp)|Easy|
+|936|[Stamping The Sequence](https://leetcode.com/problems/stamping-the-sequence/)|[C++](./c%2B%2B/Stamping%20The%20Sequence/Stamping%20The%20Sequence.cpp)|Hard|
 |933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)|[C++](./c%2B%2B/Number%20of%20Recent%20Calls/Number%20of%20Recent%20Calls.cpp)|Easy|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)|[C#](./c%23/Unique%20Email%20Addresses/Unique%20Email%20Addresses.cs)|Easy|
 |925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)|[C++](./c%2B%2B/Long%20Pressed%20Name/Long%20Pressed%20Name.cpp)|Easy|
@@ -442,6 +443,7 @@ LeetCode
 |478|[Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/)|[C++](./c%2B%2B/Generate%20Random%20Point%20in%20a%20Circle/Generate%20Random%20Point%20in%20a%20Circle.cpp)|Medium|
 |476|[Number Complement](https://leetcode.com/problems/number-complement/)|[C++](./c%2B%2B/Number%20Complement/Number%20Complement.cpp)|Easy|
 |475|[Heaters](https://leetcode.com/problems/heaters/)|[C++](./c%2B%2B/Heaters/Heaters.cpp)|Medium|
+|474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[C++](./c%2B%2B/Ones%20and%20Zeroes/Ones%20and%20Zeroes.cpp)|Medium|
 |470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[C++](./c%2B%2B/Implement%20Rand10%28%29%20Using%20Rand7%28%29/Implement%20Rand10%28%29%20Using%20Rand7%28%29.cpp)|Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[C++](./c%2B%2B/Island%20Perimeter/Island%20Perimeter.cpp)|Easy|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](./c%2B%2B/Hamming%20Distance/Hamming%20Distance.cpp)|Easy|
@@ -498,6 +500,7 @@ LeetCode
 |369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/)|[C++](./c%2B%2B/Plus%20One%20Linked%20List/Plus%20One%20Linked%20List.cpp)|Medium|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C++](./c%2B%2B/Valid%20Perfect%20Square/Valid%20Perfect%20Square.cpp)|Easy|
 |359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[C++](./c%2B%2B/Logger%20Rate%20Limiter/Logger%20Rate%20Limiter.cpp)|Easy|
+|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[C++](./c%2B%2B/Russian%20Doll%20Envelopes/Russian%20Doll%20Envelopes.cpp)|Hard|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[C++](./c%2B%2B/Intersection%20of%20Two%20Arrays%20II/Intersection%20of%20Two%20Arrays%20II.cpp)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](./c%2B%2B/Intersection%20of%20Two%20Arrays/Intersection%20of%20Two%20Arrays.cpp)|Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C#](./c%23/Top%20K%20Frequent%20Elements/Top%20K%20Frequent%20Elements.cs)|Medium|
@@ -703,6 +706,7 @@ LeetCode
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[C++](./c%2B%2B/Search%20Insert%20Position/Search%20Insert%20Position.cpp)|Easy|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](./c%2B%2B/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./c%2B%2B/Search%20in%20Rotated%20Sorted%20Array/Search%20in%20Rotated%20Sorted%20Array.cpp)|Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[C++](./c%2B%2B/Longest%20Valid%20Parentheses/Longest%20Valid%20Parentheses.cpp)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[C++](./c%2B%2B/Next%20Permutation/Next%20Permutation.cpp)|Medium|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[C++](./c%2B%2B/Divide%20Two%20Integers/Divide%20Two%20Integers.cpp)|Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[C++](./c%2B%2B/Implement%20strStr%28%29/Implement%20strStr%28%29.cpp)|Easy|

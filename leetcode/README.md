@@ -71,6 +71,7 @@ LeetCode
 |1558|[Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/)|[C++](./algorithms/c%2B%2B/Minimum%20Numbers%20of%20Function%20Calls%20to%20Make%20Target%20Array/Minimum%20Numbers%20of%20Function%20Calls%20to%20Make%20Target%20Array.cpp)|Medium|
 |1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[C++](./algorithms/c%2B%2B/Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.cpp)|Medium|
 |1556|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[C++](./algorithms/c%2B%2B/Thousand%20Separator/Thousand%20Separator.cpp)|Easy|
+|1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[C++](./algorithms/c%2B%2B/Minimum%20Operations%20to%20Make%20Array%20Equal/Minimum%20Operations%20to%20Make%20Array%20Equal.cpp)|Medium|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[C++](./algorithms/c%2B%2B/Three%20Consecutive%20Odds/Three%20Consecutive%20Odds.cpp)|Easy|
 |1544|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[C++](./algorithms/c%2B%2B/Make%20The%20String%20Great/Make%20The%20String%20Great.cpp)|Easy|
 |1539|[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[C++](./algorithms/c%2B%2B/Kth%20Missing%20Positive%20Number/Kth%20Missing%20Positive%20Number.cpp)|Easy|
@@ -325,6 +326,7 @@ LeetCode
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[C++](./algorithms/c%2B%2B/Letter%20Case%20Permutation/Letter%20Case%20Permutation.cpp)|Medium|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[C++](./algorithms/c%2B%2B/Minimum%20Distance%20Between%20BST%20Nodes/Minimum%20Distance%20Between%20BST%20Nodes.cpp)|Easy|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[C++](./algorithms/c%2B%2B/K-th%20Symbol%20in%20Grammar/K-th%20Symbol%20in%20Grammar.cpp)|Medium|
+|775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)|[C++](./algorithms/c%2B%2B/Global%20and%20Local%20Inversions/Global%20and%20Local%20Inversions.cpp)|Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./algorithms/c%2B%2B/Jewels%20and%20Stones/Jewels%20and%20Stones.cpp)|Easy|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[C++](./algorithms/c%2B%2B/Toeplitz%20Matrix/Toeplitz%20Matrix.cpp)|Easy|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[C++](./algorithms/c%2B%2B/Partition%20Labels/Partition%20Labels.cpp)|Medium|
@@ -389,6 +391,7 @@ LeetCode
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[C++](./algorithms/c%2B%2B/Maximum%20Product%20of%20Three%20Numbers/Maximum%20Product%20of%20Three%20Numbers.cpp)|Easy|
 |624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)|[C++](./algorithms/c%2B%2B/Maximum%20Distance%20in%20Arrays/Maximum%20Distance%20in%20Arrays.cpp)|Medium|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[C++](./algorithms/c%2B%2B/Add%20One%20Row%20to%20Tree/Add%20One%20Row%20to%20Tree.cpp)|Medium|
+|622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[C++](./algorithms/c%2B%2B/Design%20Circular%20Queue/Design%20Circular%20Queue.cpp)|Medium|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](./algorithms/c%2B%2B/Merge%20Two%20Binary%20Trees/Merge%20Two%20Binary%20Trees.cpp)|Easy|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[C++](./algorithms/c%2B%2B/Construct%20String%20from%20Binary%20Tree/Construct%20String%20from%20Binary%20Tree.cpp)|Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[C++](./algorithms/c%2B%2B/Can%20Place%20Flowers/Can%20Place%20Flowers.cpp)|Easy|
@@ -737,7 +740,13 @@ LeetCode
 ### LeetCode database
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1811|[Find Interview Candidates](https://leetcode.com/problems/find-interview-candidates/)|[MSSQL](./database/MSSQL/Find%20Interview%20Candidates/Find%20Interview%20Candidates.sql)|Medium|
+|1809|[Ad-Free Sessions](https://leetcode.com/problems/ad-free-sessions/)|[MSSQL](./database/MSSQL/Ad-Free%20Sessions/Ad-Free%20Sessions.sql)|Easy|
+|1795|[Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)|[MSSQL](./database/MSSQL/Rearrange%20Products%20Table/Rearrange%20Products%20Table.sql)|Easy|
+|1789|[Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/)|[MSSQL](./database/MSSQL/Primary%20Department%20for%20Each%20Employee/Primary%20Department%20for%20Each%20Employee.sql)|Easy|
+|1783|[Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/)|[MSSQL](./database/MSSQL/Grand%20Slam%20Titles/Grand%20Slam%20Titles.sql)|Medium|
 |1777|[Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/)|[MSSQL](./database/MSSQL/Product%27s%20Price%20for%20Each%20Store/Product%27s%20Price%20for%20Each%20Store.sql)|Easy|
+|1767|[Find the Subtasks That Did Not Execute](https://leetcode.com/problems/find-the-subtasks-that-did-not-execute/)|[MSSQL](./database/MSSQL/Find%20the%20Subtasks%20That%20Did%20Not%20Execute/Find%20the%20Subtasks%20That%20Did%20Not%20Execute.sql)|Hard|
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MSSQL](./database/MSSQL/Recyclable%20and%20Low%20Fat%20Products/Recyclable%20and%20Low%20Fat%20Products.sql)|Easy|
 |1741|[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[MSSQL](./database/MSSQL/Find%20Total%20Time%20Spent%20by%20Each%20Employee/Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)|Easy|
 |1731|[The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/)|[MSSQL](./database/MSSQL/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql)|Easy|

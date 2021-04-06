@@ -3,7 +3,13 @@ LeetCode
 ### LeetCode database
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1811|[Find Interview Candidates](https://leetcode.com/problems/find-interview-candidates/)|[MSSQL](./MSSQL/Find%20Interview%20Candidates/Find%20Interview%20Candidates.sql)|Medium|
+|1809|[Ad-Free Sessions](https://leetcode.com/problems/ad-free-sessions/)|[MSSQL](./MSSQL/Ad-Free%20Sessions/Ad-Free%20Sessions.sql)|Easy|
+|1795|[Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)|[MSSQL](./MSSQL/Rearrange%20Products%20Table/Rearrange%20Products%20Table.sql)|Easy|
+|1789|[Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/)|[MSSQL](./MSSQL/Primary%20Department%20for%20Each%20Employee/Primary%20Department%20for%20Each%20Employee.sql)|Easy|
+|1783|[Grand Slam Titles](https://leetcode.com/problems/grand-slam-titles/)|[MSSQL](./MSSQL/Grand%20Slam%20Titles/Grand%20Slam%20Titles.sql)|Medium|
 |1777|[Product's Price for Each Store](https://leetcode.com/problems/products-price-for-each-store/)|[MSSQL](./MSSQL/Product%27s%20Price%20for%20Each%20Store/Product%27s%20Price%20for%20Each%20Store.sql)|Easy|
+|1767|[Find the Subtasks That Did Not Execute](https://leetcode.com/problems/find-the-subtasks-that-did-not-execute/)|[MSSQL](./MSSQL/Find%20the%20Subtasks%20That%20Did%20Not%20Execute/Find%20the%20Subtasks%20That%20Did%20Not%20Execute.sql)|Hard|
 |1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MSSQL](./MSSQL/Recyclable%20and%20Low%20Fat%20Products/Recyclable%20and%20Low%20Fat%20Products.sql)|Easy|
 |1741|[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/)|[MSSQL](./MSSQL/Find%20Total%20Time%20Spent%20by%20Each%20Employee/Find%20Total%20Time%20Spent%20by%20Each%20Employee.sql)|Easy|
 |1731|[The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/)|[MSSQL](./MSSQL/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee/The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql)|Easy|

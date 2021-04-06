@@ -71,6 +71,7 @@ LeetCode
 |1558|[Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/)|[C++](./c%2B%2B/Minimum%20Numbers%20of%20Function%20Calls%20to%20Make%20Target%20Array/Minimum%20Numbers%20of%20Function%20Calls%20to%20Make%20Target%20Array.cpp)|Medium|
 |1557|[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)|[C++](./c%2B%2B/Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes/Minimum%20Number%20of%20Vertices%20to%20Reach%20All%20Nodes.cpp)|Medium|
 |1556|[Thousand Separator](https://leetcode.com/problems/thousand-separator/)|[C++](./c%2B%2B/Thousand%20Separator/Thousand%20Separator.cpp)|Easy|
+|1551|[Minimum Operations to Make Array Equal](https://leetcode.com/problems/minimum-operations-to-make-array-equal/)|[C++](./c%2B%2B/Minimum%20Operations%20to%20Make%20Array%20Equal/Minimum%20Operations%20to%20Make%20Array%20Equal.cpp)|Medium|
 |1550|[Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)|[C++](./c%2B%2B/Three%20Consecutive%20Odds/Three%20Consecutive%20Odds.cpp)|Easy|
 |1544|[Make The String Great](https://leetcode.com/problems/make-the-string-great/)|[C++](./c%2B%2B/Make%20The%20String%20Great/Make%20The%20String%20Great.cpp)|Easy|
 |1539|[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)|[C++](./c%2B%2B/Kth%20Missing%20Positive%20Number/Kth%20Missing%20Positive%20Number.cpp)|Easy|
@@ -325,6 +326,7 @@ LeetCode
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)|[C++](./c%2B%2B/Letter%20Case%20Permutation/Letter%20Case%20Permutation.cpp)|Medium|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)|[C++](./c%2B%2B/Minimum%20Distance%20Between%20BST%20Nodes/Minimum%20Distance%20Between%20BST%20Nodes.cpp)|Easy|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[C++](./c%2B%2B/K-th%20Symbol%20in%20Grammar/K-th%20Symbol%20in%20Grammar.cpp)|Medium|
+|775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/)|[C++](./c%2B%2B/Global%20and%20Local%20Inversions/Global%20and%20Local%20Inversions.cpp)|Medium|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[C++](./c%2B%2B/Jewels%20and%20Stones/Jewels%20and%20Stones.cpp)|Easy|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/)|[C++](./c%2B%2B/Toeplitz%20Matrix/Toeplitz%20Matrix.cpp)|Easy|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels/)|[C++](./c%2B%2B/Partition%20Labels/Partition%20Labels.cpp)|Medium|
@@ -389,6 +391,7 @@ LeetCode
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)|[C++](./c%2B%2B/Maximum%20Product%20of%20Three%20Numbers/Maximum%20Product%20of%20Three%20Numbers.cpp)|Easy|
 |624|[Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/)|[C++](./c%2B%2B/Maximum%20Distance%20in%20Arrays/Maximum%20Distance%20in%20Arrays.cpp)|Medium|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[C++](./c%2B%2B/Add%20One%20Row%20to%20Tree/Add%20One%20Row%20to%20Tree.cpp)|Medium|
+|622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[C++](./c%2B%2B/Design%20Circular%20Queue/Design%20Circular%20Queue.cpp)|Medium|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](./c%2B%2B/Merge%20Two%20Binary%20Trees/Merge%20Two%20Binary%20Trees.cpp)|Easy|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[C++](./c%2B%2B/Construct%20String%20from%20Binary%20Tree/Construct%20String%20from%20Binary%20Tree.cpp)|Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[C++](./c%2B%2B/Can%20Place%20Flowers/Can%20Place%20Flowers.cpp)|Easy|

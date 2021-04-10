@@ -12,7 +12,7 @@ private:
             if (dic[x[i]] > dic[y[i]])
                 return false;
         }
-        return n < m;
+        return n <= m;
     }
 
 public:

@@ -3,6 +3,10 @@ LeetCode
 ### LeetCode algorithms
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1785|[Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)|[C++](./c%2B%2B/Minimum%20Elements%20to%20Add%20to%20Form%20a%20Given%20Sum/Minimum%20Elements%20to%20Add%20to%20Form%20a%20Given%20Sum.cpp)|Medium|
+|1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[C++](./c%2B%2B/Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.cpp)|Easy|
+|1781|[Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/)|[C++](./c%2B%2B/Sum%20of%20Beauty%20of%20All%20Substrings/Sum%20of%20Beauty%20of%20All%20Substrings.cpp)|Medium|
+|1780|[Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/)|[C++](./c%2B%2B/Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three/Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three.cpp)|Medium|
 |1779|[Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/)|[C++](./c%2B%2B/Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate/Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.cpp)|Easy|
 |1773|[Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)|[C++](./c%2B%2B/Count%20Items%20Matching%20a%20Rule/Count%20Items%20Matching%20a%20Rule.cpp)|Easy|
 |1768|[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)|[C++](./c%2B%2B/Merge%20Strings%20Alternately/Merge%20Strings%20Alternately.cpp)|Easy|
@@ -515,6 +519,7 @@ LeetCode
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|[C++](./c%2B%2B/Nested%20List%20Weight%20Sum/Nested%20List%20Weight%20Sum.cpp)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](./c%2B%2B/House%20Robber%20III/House%20Robber%20III.cpp)|Medium|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)|[C++](./c%2B%2B/Increasing%20Triplet%20Subsequence/Increasing%20Triplet%20Subsequence.cpp)|Medium|
+|329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[C++](./c%2B%2B/Longest%20Increasing%20Path%20in%20a%20Matrix/Longest%20Increasing%20Path%20in%20a%20Matrix.cpp)|Hard|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[C#](./c%23/Odd%20Even%20Linked%20List/Odd%20Even%20Linked%20List.cs)|Medium|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[C++](./c%2B%2B/Power%20of%20Three/Power%20of%20Three.cpp)|Easy|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[C++](./c%2B%2B/Coin%20Change/Coin%20Change.cpp)|Medium|

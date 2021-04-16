@@ -174,6 +174,7 @@ LeetCode
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[C++](./c%2B%2B/Split%20a%20String%20in%20Balanced%20Strings/Split%20a%20String%20in%20Balanced%20Strings.cpp)|Easy|
 |1217|[Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)|[C++](./c%2B%2B/Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position/Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.cpp)|Easy|
 |1213|[Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/)|[C++](./c%2B%2B/Intersection%20of%20Three%20Sorted%20Arrays/Intersection%20of%20Three%20Sorted%20Arrays.cpp)|Easy|
+|1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[C#](./c%23/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II/Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.cs)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[C++](./c%2B%2B/Unique%20Number%20of%20Occurrences/Unique%20Number%20of%20Occurrences.cpp)|Easy|
 |1200|[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[C++](./c%2B%2B/Minimum%20Absolute%20Difference/Minimum%20Absolute%20Difference.cpp)|Easy|
 |1198|[Find Smallest Common Element in All Rows](https://leetcode.com/problems/find-smallest-common-element-in-all-rows/)|[C++](./c%2B%2B/Find%20Smallest%20Common%20Element%20in%20All%20Rows/Find%20Smallest%20Common%20Element%20in%20All%20Rows.cpp)|Medium|
@@ -188,6 +189,7 @@ LeetCode
 |1165|[Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)|[C++](./c%2B%2B/Single-Row%20Keyboard/Single-Row%20Keyboard.cpp)|Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[C++](./c%2B%2B/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.cpp)|Easy|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/)|[C#](./c%23/Day%20of%20the%20Year/Day%20of%20the%20Year.cs)|Easy|
+|1151|[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)|[C++](./c%2B%2B/Minimum%20Swaps%20to%20Group%20All%201%27s%20Together/Minimum%20Swaps%20to%20Group%20All%201%27s%20Together.cpp)|Medium|
 |1150|[Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/)|[C++](./c%2B%2B/Check%20If%20a%20Number%20Is%20Majority%20Element%20in%20a%20Sorted%20Array/Check%20If%20a%20Number%20Is%20Majority%20Element%20in%20a%20Sorted%20Array.cpp)|Easy|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)|[C++](./c%2B%2B/N-th%20Tribonacci%20Number/N-th%20Tribonacci%20Number.cpp)|Easy|
 |1136|[Parallel Courses](https://leetcode.com/problems/parallel-courses/)|[C++](./c%2B%2B/Parallel%20Courses/Parallel%20Courses.cpp)|Medium|
@@ -377,6 +379,7 @@ LeetCode
 |673|[Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|[C++](./c%2B%2B/Number%20of%20Longest%20Increasing%20Subsequence/Number%20of%20Longest%20Increasing%20Subsequence.cpp)|Medium|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[C++](./c%2B%2B/Second%20Minimum%20Node%20In%20a%20Binary%20Tree/Second%20Minimum%20Node%20In%20a%20Binary%20Tree.cpp)|Easy|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)|[C++](./c%2B%2B/Trim%20a%20Binary%20Search%20Tree/Trim%20a%20Binary%20Search%20Tree.cpp)|Medium|
+|667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/)|[C++](./c%2B%2B/Beautiful%20Arrangement%20II/Beautiful%20Arrangement%20II.cpp)|Medium|
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/)|[C++](./c%2B%2B/Non-decreasing%20Array/Non-decreasing%20Array.cpp)|Medium|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/)|[C++](./c%2B%2B/Image%20Smoother/Image%20Smoother.cpp)|Easy|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[C++](./c%2B%2B/Robot%20Return%20to%20Origin/Robot%20Return%20to%20Origin.cpp)|Easy|
@@ -515,6 +518,7 @@ LeetCode
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[C++](./c%2B%2B/Reverse%20Vowels%20of%20a%20String/Reverse%20Vowels%20of%20a%20String.cpp)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[C++](./c%2B%2B/Reverse%20String/Reverse%20String.cpp)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/)|[C++](./c%2B%2B/Power%20of%20Four/Power%20of%20Four.cpp)|Easy|
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[C++](./c%2B%2B/Flatten%20Nested%20List%20Iterator/Flatten%20Nested%20List%20Iterator.cpp)|Medium|
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[C++](./c%2B%2B/Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters/Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters.cpp)|Medium|
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)|[C++](./c%2B%2B/Nested%20List%20Weight%20Sum/Nested%20List%20Weight%20Sum.cpp)|Medium|
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/)|[C++](./c%2B%2B/House%20Robber%20III/House%20Robber%20III.cpp)|Medium|

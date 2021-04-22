@@ -211,6 +211,7 @@ LeetCode
 |1085|[Sum of Digits in the Minimum Number](https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/)|[C++](./c%2B%2B/Sum%20of%20Digits%20in%20the%20Minimum%20Number/Sum%20of%20Digits%20in%20the%20Minimum%20Number.cpp)|Easy|
 |1081|[Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/)|[C++](./c%2B%2B/Smallest%20Subsequence%20of%20Distinct%20Characters/Smallest%20Subsequence%20of%20Distinct%20Characters.cpp)|Medium|
 |1078|[Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/)|[C#](./c%23/Occurrences%20After%20Bigram/Occurrences%20After%20Bigram.cs)|Easy|
+|1074|[Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)|[C++](./c%2B%2B/Number%20of%20Submatrices%20That%20Sum%20to%20Target/Number%20of%20Submatrices%20That%20Sum%20to%20Target.cpp)|Hard|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)|[C++](./c%2B%2B/Greatest%20Common%20Divisor%20of%20Strings/Greatest%20Common%20Divisor%20of%20Strings.cpp)|Easy|
 |1065|[Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/)|[C#](./c%23/Index%20Pairs%20of%20a%20String/Index%20Pairs%20of%20a%20String.cs)|Easy|
 |1064|[Fixed Point](https://leetcode.com/problems/fixed-point/)|[C++](./c%2B%2B/Fixed%20Point/Fixed%20Point.cpp)|Easy|
@@ -420,6 +421,7 @@ LeetCode
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[C++](./c%2B%2B/Maximum%20Depth%20of%20N-ary%20Tree/Maximum%20Depth%20of%20N-ary%20Tree.cpp)|Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[C#](./c%23/Reverse%20Words%20in%20a%20String%20III/Reverse%20Words%20in%20a%20String%20III.cs)|Easy|
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[C++](./c%2B%2B/Next%20Greater%20Element%20III/Next%20Greater%20Element%20III.cpp)|Medium|
+|554|[Brick Wall](https://leetcode.com/problems/brick-wall/)|[C++](./c%2B%2B/Brick%20Wall/Brick%20Wall.cpp)|Medium|
 |551|[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)|[C#](./c%23/Student%20Attendance%20Record%20I/Student%20Attendance%20Record%20I.cs)|Easy|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[C++](./c%2B%2B/Diameter%20of%20Binary%20Tree/Diameter%20of%20Binary%20Tree.cpp)|Easy|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[C++](./c%2B%2B/01%20Matrix/01%20Matrix.cpp)|Medium|

@@ -56,7 +56,7 @@ public:
         bool isE = false;
         for (auto &x : s)
         {
-            if (x == 'e' && !isE)
+            if ((x == 'e' || x == 'E') && !isE)
             {
                 isE = true;
                 continue;
@@ -70,7 +70,6 @@ public:
                 second += x;
             }
         }
-        //cout << first << " " << second << endl;
         if (isE)
         {
             return isDigs(first) && isDigs2(second);

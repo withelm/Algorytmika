@@ -296,6 +296,7 @@ LeetCode
 |895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[C++](./c%2B%2B/Maximum%20Frequency%20Stack/Maximum%20Frequency%20Stack.cpp)|Hard|
 |893|[Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/)|[C++](./c%2B%2B/Groups%20of%20Special-Equivalent%20Strings/Groups%20of%20Special-Equivalent%20Strings.cpp)|Easy|
 |892|[Surface Area of 3D Shapes](https://leetcode.com/problems/surface-area-of-3d-shapes/)|[C++](./c%2B%2B/Surface%20Area%20of%203D%20Shapes/Surface%20Area%20of%203D%20Shapes.cpp)|Easy|
+|890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[C++](./c%2B%2B/Find%20and%20Replace%20Pattern/Find%20and%20Replace%20Pattern.cpp)|Medium|
 |888|[Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)|[C++](./c%2B%2B/Fair%20Candy%20Swap/Fair%20Candy%20Swap.cpp)|Easy|
 |884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)|[C#](./c%23/Uncommon%20Words%20from%20Two%20Sentences/Uncommon%20Words%20from%20Two%20Sentences.cs)|Easy|
 |883|[Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/)|[C++](./c%2B%2B/Projection%20Area%20of%203D%20Shapes/Projection%20Area%20of%203D%20Shapes.cpp)|Easy|
@@ -414,6 +415,7 @@ LeetCode
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[C++](./c%2B%2B/Add%20One%20Row%20to%20Tree/Add%20One%20Row%20to%20Tree.cpp)|Medium|
 |622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[C++](./c%2B%2B/Design%20Circular%20Queue/Design%20Circular%20Queue.cpp)|Medium|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[C++](./c%2B%2B/Merge%20Two%20Binary%20Trees/Merge%20Two%20Binary%20Trees.cpp)|Easy|
+|609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)|[C++](./c%2B%2B/Find%20Duplicate%20File%20in%20System/Find%20Duplicate%20File%20in%20System.cpp)|Medium|
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)|[C++](./c%2B%2B/Construct%20String%20from%20Binary%20Tree/Construct%20String%20from%20Binary%20Tree.cpp)|Easy|
 |605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[C++](./c%2B%2B/Can%20Place%20Flowers/Can%20Place%20Flowers.cpp)|Easy|
 |604|[Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/)|[C++](./c%2B%2B/Design%20Compressed%20String%20Iterator/Design%20Compressed%20String%20Iterator.cpp)|Easy|
@@ -472,6 +474,7 @@ LeetCode
 |474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[C++](./c%2B%2B/Ones%20and%20Zeroes/Ones%20and%20Zeroes.cpp)|Medium|
 |470|[Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/)|[C++](./c%2B%2B/Implement%20Rand10%28%29%20Using%20Rand7%28%29/Implement%20Rand10%28%29%20Using%20Rand7%28%29.cpp)|Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[C++](./c%2B%2B/Island%20Perimeter/Island%20Perimeter.cpp)|Easy|
+|462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)|[C++](./c%2B%2B/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II/Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.cpp)|Medium|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[C++](./c%2B%2B/Hamming%20Distance/Hamming%20Distance.cpp)|Easy|
 |459|[Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)|[C++](./c%2B%2B/Repeated%20Substring%20Pattern/Repeated%20Substring%20Pattern.cpp)|Easy|
 |458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/)|[C++](./c%2B%2B/Poor%20Pigs/Poor%20Pigs.cpp)|Hard|
@@ -529,6 +532,7 @@ LeetCode
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)|[C++](./c%2B%2B/Russian%20Doll%20Envelopes/Russian%20Doll%20Envelopes.cpp)|Hard|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[C++](./c%2B%2B/Intersection%20of%20Two%20Arrays%20II/Intersection%20of%20Two%20Arrays%20II.cpp)|Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C++](./c%2B%2B/Intersection%20of%20Two%20Arrays/Intersection%20of%20Two%20Arrays.cpp)|Easy|
+|348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)|[C++](./c%2B%2B/Design%20Tic-Tac-Toe/Design%20Tic-Tac-Toe.cpp)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C#](./c%23/Top%20K%20Frequent%20Elements/Top%20K%20Frequent%20Elements.cs)|Medium|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[C++](./c%2B%2B/Moving%20Average%20from%20Data%20Stream/Moving%20Average%20from%20Data%20Stream.cpp)|Easy|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[C++](./c%2B%2B/Reverse%20Vowels%20of%20a%20String/Reverse%20Vowels%20of%20a%20String.cpp)|Easy|
@@ -720,6 +724,7 @@ LeetCode
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[C++](./c%2B%2B/Spiral%20Matrix/Spiral%20Matrix.cpp)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[C++](./c%2B%2B/Maximum%20Subarray/Maximum%20Subarray.cpp)|Easy|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[C++](./c%2B%2B/N-Queens%20II/N-Queens%20II.cpp)|Hard|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[C++](./c%2B%2B/N-Queens/N-Queens.cpp)|Hard|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[C++](./c%2B%2B/Pow%28x%20n%29/Pow%28x%20n%29.cpp)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./c%2B%2B/Group%20Anagrams/Group%20Anagrams.cpp)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[C++](./c%2B%2B/Rotate%20Image/Rotate%20Image.cpp)|Medium|

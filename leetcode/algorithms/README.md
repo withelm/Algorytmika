@@ -271,6 +271,7 @@ LeetCode
 |948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)|[C++](./c%2B%2B/Bag%20of%20Tokens/Bag%20of%20Tokens.cpp)|Medium|
 |946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](./c%2B%2B/Validate%20Stack%20Sequences/Validate%20Stack%20Sequences.cpp)|Medium|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[C++](./c%2B%2B/Delete%20Columns%20to%20Make%20Sorted/Delete%20Columns%20to%20Make%20Sorted.cpp)|Easy|
+|943|[Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)|[C#](./c%23/Find%20the%20Shortest%20Superstring/Find%20the%20Shortest%20Superstring.cs)|Hard|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[C++](./c%2B%2B/DI%20String%20Match/DI%20String%20Match.cpp)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[C++](./c%2B%2B/Valid%20Mountain%20Array/Valid%20Mountain%20Array.cpp)|Easy|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](./c%2B%2B/Range%20Sum%20of%20BST/Range%20Sum%20of%20BST.cpp)|Easy|
@@ -647,6 +648,7 @@ LeetCode
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[C++](./c%2B%2B/Find%20Minimum%20in%20Rotated%20Sorted%20Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array.cpp)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[C++](./c%2B%2B/Maximum%20Product%20Subarray/Maximum%20Product%20Subarray.cpp)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[C#](./c%23/Reverse%20Words%20in%20a%20String/Reverse%20Words%20in%20a%20String.cs)|Medium|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[C++](./c%2B%2B/Evaluate%20Reverse%20Polish%20Notation/Evaluate%20Reverse%20Polish%20Notation.cpp)|Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)|[C++](./c%2B%2B/Sort%20List/Sort%20List.cpp)|Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[C++](./c%2B%2B/Insertion%20Sort%20List/Insertion%20Sort%20List.cpp)|Medium|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C++](./c%2B%2B/Binary%20Tree%20Postorder%20Traversal/Binary%20Tree%20Postorder%20Traversal.cpp)|Easy|
@@ -686,7 +688,7 @@ LeetCode
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[C++](./c%2B%2B/Binary%20Tree%20Level%20Order%20Traversal/Binary%20Tree%20Level%20Order%20Traversal.cpp)|Medium|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C#](./c%23/Symmetric%20Tree/Symmetric%20Tree.cs), [C++](./c%2B%2B/Symmetric%20Tree/Symmetric%20Tree.cpp)|Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[C#](./c%23/Same%20Tree/Same%20Tree.cs)|Easy|
-|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[C++](./c%2B%2B/Recover%20Binary%20Search%20Tree/Recover%20Binary%20Search%20Tree.cpp)|Hard|
+|99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[C++](./c%2B%2B/Recover%20Binary%20Search%20Tree/Recover%20Binary%20Search%20Tree.cpp)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./c%2B%2B/Validate%20Binary%20Search%20Tree/Validate%20Binary%20Search%20Tree.cpp)|Medium|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[C++](./c%2B%2B/Unique%20Binary%20Search%20Trees/Unique%20Binary%20Search%20Trees.cpp)|Medium|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[C++](./c%2B%2B/Unique%20Binary%20Search%20Trees%20II/Unique%20Binary%20Search%20Trees%20II.cpp)|Medium|

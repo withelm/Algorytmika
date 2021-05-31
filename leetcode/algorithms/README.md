@@ -27,6 +27,7 @@ LeetCode
 |1708|[Largest Subarray Length K](https://leetcode.com/problems/largest-subarray-length-k/)|[C++](./c%2B%2B/Largest%20Subarray%20Length%20K/Largest%20Subarray%20Length%20K.cpp)|Easy|
 |1704|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[C++](./c%2B%2B/Determine%20if%20String%20Halves%20Are%20Alike/Determine%20if%20String%20Halves%20Are%20Alike.cpp)|Easy|
 |1700|[Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|[C++](./c%2B%2B/Number%20of%20Students%20Unable%20to%20Eat%20Lunch/Number%20of%20Students%20Unable%20to%20Eat%20Lunch.cpp)|Easy|
+|1695|[Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/)|[C++](./c%2B%2B/Maximum%20Erasure%20Value/Maximum%20Erasure%20Value.cpp)|Medium|
 |1694|[Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/)|[C#](./c%23/Reformat%20Phone%20Number/Reformat%20Phone%20Number.cs)|Easy|
 |1689|[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|[C++](./c%2B%2B/Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers/Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.cpp)|Medium|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[C++](./c%2B%2B/Count%20of%20Matches%20in%20Tournament/Count%20of%20Matches%20in%20Tournament.cpp)|Easy|
@@ -166,6 +167,7 @@ LeetCode
 |1275|[Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|[C++](./c%2B%2B/Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game/Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game.cpp)|Easy|
 |1272|[Remove Interval](https://leetcode.com/problems/remove-interval/)|[C++](./c%2B%2B/Remove%20Interval/Remove%20Interval.cpp)|Medium|
 |1271|[Hexspeak](https://leetcode.com/problems/hexspeak/)|[C#](./c%23/Hexspeak/Hexspeak.cs)|Easy|
+|1268|[Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/)|[C#](./c%23/Search%20Suggestions%20System/Search%20Suggestions%20System.cs), [C++](./c%2B%2B/Search%20Suggestions%20System/Search%20Suggestions%20System.cpp)|Medium|
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[C++](./c%2B%2B/Minimum%20Time%20Visiting%20All%20Points/Minimum%20Time%20Visiting%20All%20Points.cpp)|Easy|
 |1265|[Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/)|[C++](./c%2B%2B/Print%20Immutable%20Linked%20List%20in%20Reverse/Print%20Immutable%20Linked%20List%20in%20Reverse.cpp)|Medium|
 |1260|[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/)|[C++](./c%2B%2B/Shift%202D%20Grid/Shift%202D%20Grid.cpp)|Easy|
@@ -192,6 +194,7 @@ LeetCode
 |1180|[Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/)|[C++](./c%2B%2B/Count%20Substrings%20with%20Only%20One%20Distinct%20Letter/Count%20Substrings%20with%20Only%20One%20Distinct%20Letter.cpp)|Easy|
 |1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance/)|[C++](./c%2B%2B/Diet%20Plan%20Performance/Diet%20Plan%20Performance.cpp)|Easy|
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)|[C++](./c%2B%2B/Prime%20Arrangements/Prime%20Arrangements.cpp)|Easy|
+|1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[C++](./c%2B%2B/Minimum%20Cost%20to%20Connect%20Sticks/Minimum%20Cost%20to%20Connect%20Sticks.cpp)|Medium|
 |1166|[Design File System](https://leetcode.com/problems/design-file-system/)|[C++](./c%2B%2B/Design%20File%20System/Design%20File%20System.cpp)|Medium|
 |1165|[Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)|[C++](./c%2B%2B/Single-Row%20Keyboard/Single-Row%20Keyboard.cpp)|Easy|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)|[C++](./c%2B%2B/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters/Find%20Words%20That%20Can%20Be%20Formed%20by%20Characters.cpp)|Easy|
@@ -549,6 +552,7 @@ LeetCode
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/)|[C++](./c%2B%2B/Power%20of%20Three/Power%20of%20Three.cpp)|Easy|
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|[C++](./c%2B%2B/Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph/Number%20of%20Connected%20Components%20in%20an%20Undirected%20Graph.cpp)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)|[C++](./c%2B%2B/Coin%20Change/Coin%20Change.cpp)|Medium|
+|318|[Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/)|[C++](./c%2B%2B/Maximum%20Product%20of%20Word%20Lengths/Maximum%20Product%20of%20Word%20Lengths.cpp)|Medium|
 |316|[Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[C++](./c%2B%2B/Remove%20Duplicate%20Letters/Remove%20Duplicate%20Letters.cpp)|Medium|
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[C++](./c%2B%2B/Burst%20Balloons/Burst%20Balloons.cpp)|Hard|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)|[C++](./c%2B%2B/Minimum%20Height%20Trees/Minimum%20Height%20Trees.cpp)|Medium|
@@ -637,6 +641,7 @@ LeetCode
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[C++](./c%2B%2B/Excel%20Sheet%20Column%20Title/Excel%20Sheet%20Column%20Title.cpp)|Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C++](./c%2B%2B/Two%20Sum%20II%20-%20Input%20array%20is%20sorted/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp)|Easy|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)|[C#](./c%23/Compare%20Version%20Numbers/Compare%20Version%20Numbers.cs)|Medium|
+|164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/)|[C++](./c%2B%2B/Maximum%20Gap/Maximum%20Gap.cpp)|Hard|
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[C++](./c%2B%2B/Missing%20Ranges/Missing%20Ranges.cpp)|Easy|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C++](./c%2B%2B/Find%20Peak%20Element/Find%20Peak%20Element.cpp)|Medium|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)|[C++](./c%2B%2B/One%20Edit%20Distance/One%20Edit%20Distance.cpp)|Medium|
@@ -768,7 +773,7 @@ LeetCode
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[C++](./c%2B%2B/Reverse%20Integer/Reverse%20Integer.cpp)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[C++](./c%2B%2B/ZigZag%20Conversion/ZigZag%20Conversion.cpp)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[C++](./c%2B%2B/Longest%20Palindromic%20Substring/Longest%20Palindromic%20Substring.cpp)|Medium|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](./c%2B%2B/Median%20of%20Two%20Sorted%20Arrays/Median%20of%20Two%20Sorted%20Arrays.cpp)|Hard|
-|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](./c%2B%2B/Longest%20Substring%20Without%20Repeating%20Characters/Longest%20Substring%20Without%20Repeating%20Characters.cpp)|Medium|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C#](./c%23/Add%20Two%20Numbers/Add%20Two%20Numbers.cs)|Medium|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./c%2B%2B/Two%20Sum/Two%20Sum.cpp)|Easy|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C++](./c%2B%2B/Median%20of%20Two%20Sorted%20Arrays/Median%20of%20Two%20Sorted%20Arrays.cpp), [Python](./python/Median%20of%20Two%20Sorted%20Arrays/Median%20of%20Two%20Sorted%20Arrays.py)|Hard|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[C++](./c%2B%2B/Longest%20Substring%20Without%20Repeating%20Characters/Longest%20Substring%20Without%20Repeating%20Characters.cpp), [Python](./python/Longest%20Substring%20Without%20Repeating%20Characters/Longest%20Substring%20Without%20Repeating%20Characters.py)|Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[C#](./c%23/Add%20Two%20Numbers/Add%20Two%20Numbers.cs), [Python](./python/Add%20Two%20Numbers/Add%20Two%20Numbers.py)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[C++](./c%2B%2B/Two%20Sum/Two%20Sum.cpp), [Python](./python/Two%20Sum/Two%20Sum.py)|Easy|

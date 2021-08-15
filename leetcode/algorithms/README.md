@@ -3,6 +3,24 @@ LeetCode
 ### LeetCode algorithms
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[C++](./c%2B%2B/Concatenation%20of%20Array/Concatenation%20of%20Array.cpp)|Easy|
+|1863|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[C++](./c%2B%2B/Sum%20of%20All%20Subset%20XOR%20Totals/Sum%20of%20All%20Subset%20XOR%20Totals.cpp)|Easy|
+|1859|[Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)|[C++](./c%2B%2B/Sorting%20the%20Sentence/Sorting%20the%20Sentence.cpp)|Easy|
+|1854|[Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)|[C++](./c%2B%2B/Maximum%20Population%20Year/Maximum%20Population%20Year.cpp)|Easy|
+|1848|[Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/)|[C++](./c%2B%2B/Minimum%20Distance%20to%20the%20Target%20Element/Minimum%20Distance%20to%20the%20Target%20Element.cpp)|Easy|
+|1844|[Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/)|[C++](./c%2B%2B/Replace%20All%20Digits%20with%20Characters/Replace%20All%20Digits%20with%20Characters.cpp)|Easy|
+|1837|[Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)|[C++](./c%2B%2B/Sum%20of%20Digits%20in%20Base%20K/Sum%20of%20Digits%20in%20Base%20K.cpp)|Easy|
+|1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)|[C++](./c%2B%2B/Check%20if%20the%20Sentence%20Is%20Pangram/Check%20if%20the%20Sentence%20Is%20Pangram.cpp)|Easy|
+|1827|[Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/)|[C++](./c%2B%2B/Minimum%20Operations%20to%20Make%20the%20Array%20Increasing/Minimum%20Operations%20to%20Make%20the%20Array%20Increasing.cpp)|Easy|
+|1826|[Faulty Sensor](https://leetcode.com/problems/faulty-sensor/)|[C++](./c%2B%2B/Faulty%20Sensor/Faulty%20Sensor.cpp)|Easy|
+|1822|[Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|[C++](./c%2B%2B/Sign%20of%20the%20Product%20of%20an%20Array/Sign%20of%20the%20Product%20of%20an%20Array.cpp)|Easy|
+|1816|[Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)|[C#](./c%23/Truncate%20Sentence/Truncate%20Sentence.cs)|Easy|
+|1812|[Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/)|[C++](./c%2B%2B/Determine%20Color%20of%20a%20Chessboard%20Square/Determine%20Color%20of%20a%20Chessboard%20Square.cpp)|Easy|
+|1805|[Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[C++](./c%2B%2B/Number%20of%20Different%20Integers%20in%20a%20String/Number%20of%20Different%20Integers%20in%20a%20String.cpp)|Easy|
+|1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[C++](./c%2B%2B/Maximum%20Ascending%20Subarray%20Sum/Maximum%20Ascending%20Subarray%20Sum.cpp)|Easy|
+|1796|[Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[C++](./c%2B%2B/Second%20Largest%20Digit%20in%20a%20String/Second%20Largest%20Digit%20in%20a%20String.cpp)|Easy|
+|1791|[Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/)|[C++](./c%2B%2B/Find%20Center%20of%20Star%20Graph/Find%20Center%20of%20Star%20Graph.cpp)|Easy|
+|1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)|[C++](./c%2B%2B/Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal/Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.cpp)|Easy|
 |1785|[Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)|[C++](./c%2B%2B/Minimum%20Elements%20to%20Add%20to%20Form%20a%20Given%20Sum/Minimum%20Elements%20to%20Add%20to%20Form%20a%20Given%20Sum.cpp)|Medium|
 |1784|[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|[C++](./c%2B%2B/Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones.cpp)|Easy|
 |1781|[Sum of Beauty of All Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/)|[C++](./c%2B%2B/Sum%20of%20Beauty%20of%20All%20Substrings/Sum%20of%20Beauty%20of%20All%20Substrings.cpp)|Medium|

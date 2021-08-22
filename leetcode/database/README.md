@@ -3,6 +3,12 @@ LeetCode
 ### LeetCode database
 | # | Title | Solution | Difficulty |
 | ---| ----- | -------- | ---------- |
+|1965|[Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information/)|[MSSQL](./MSSQL/Employees%20With%20Missing%20Information/Employees%20With%20Missing%20Information.sql)|Easy|
+|1939|[Users That Actively Request Confirmation Messages](https://leetcode.com/problems/users-that-actively-request-confirmation-messages/)|[MSSQL](./MSSQL/Users%20That%20Actively%20Request%20Confirmation%20Messages/Users%20That%20Actively%20Request%20Confirmation%20Messages.sql)|Easy|
+|1890|[The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/)|[MSSQL](./MSSQL/The%20Latest%20Login%20in%202020/The%20Latest%20Login%20in%202020.sql)|Easy|
+|1873|[Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)|[MSSQL](./MSSQL/Calculate%20Special%20Bonus/Calculate%20Special%20Bonus.sql)|Easy|
+|1853|[Convert Date Format](https://leetcode.com/problems/convert-date-format/)|[MSSQL](./MSSQL/Convert%20Date%20Format/Convert%20Date%20Format.sql)|Easy|
+|1821|[Find Customers With Positive Revenue this Year](https://leetcode.com/problems/find-customers-with-positive-revenue-this-year/)|[MSSQL](./MSSQL/Find%20Customers%20With%20Positive%20Revenue%20this%20Year/Find%20Customers%20With%20Positive%20Revenue%20this%20Year.sql)|Easy|
 |1811|[Find Interview Candidates](https://leetcode.com/problems/find-interview-candidates/)|[MSSQL](./MSSQL/Find%20Interview%20Candidates/Find%20Interview%20Candidates.sql)|Medium|
 |1809|[Ad-Free Sessions](https://leetcode.com/problems/ad-free-sessions/)|[MSSQL](./MSSQL/Ad-Free%20Sessions/Ad-Free%20Sessions.sql)|Easy|
 |1795|[Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/)|[MSSQL](./MSSQL/Rearrange%20Products%20Table/Rearrange%20Products%20Table.sql)|Easy|
